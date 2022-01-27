@@ -1,0 +1,89 @@
+
+
+Select a sort:
+1) Bubble Sort
+2) Insertion Sort
+3) Selection Sort
+4) Bogo Sort (use only with very small arrays!)
+Enter choice: 
+Input a size for the random array: 
+Input a lower bound on the range of random numbers: 
+Input an upper bound on the range of random numbers: 
+Do you want to print the unsorted array? (y/n): 
+Here is the unsorted array: 
+[185,695,74,113,773,979,53,136,801,918,102,891,780,933,999,27,573,826,930,2,641,991,306,888,170,859,319,23,181,510]
+
+Sorting with bubble sort...
+Do you want to print the sorted array? (y/n): 
+Here is the sorted array: 
+[2,23,27,53,74,102,113,136,170,181,185,306,319,510,573,641,695,773,780,801,826,859,888,891,918,930,933,979,991,999]
+
+30 numbers were sorted in 0.00238801 seconds.
+
+Do you want to quit? (y/n): 
+
+Select a sort:
+1) Bubble Sort
+2) Insertion Sort
+3) Selection Sort
+4) Bogo Sort (use only with very small arrays!)
+Enter choice: 
+Input a size for the random array: 
+Input a lower bound on the range of random numbers: 
+Input an upper bound on the range of random numbers: 
+Do you want to print the unsorted array? (y/n): 
+Here is the unsorted array: 
+[185,827,830,572,305,198,100,816,480,853,485,410,611,967,51,557,244,833,313,69,58,677,895,819,16,385,411,678,597,211]
+
+Sorting with insertion sort...
+Do you want to print the sorted array? (y/n): 
+Here is the sorted array: 
+[16,51,58,69,100,185,198,211,244,305,313,385,410,411,480,485,557,572,597,611,677,678,816,819,827,830,833,853,895,967]
+
+30 numbers were sorted in 0.00148706 seconds.
+
+Do you want to quit? (y/n): 
+
+Select a sort:
+1) Bubble Sort
+2) Insertion Sort
+3) Selection Sort
+4) Bogo Sort (use only with very small arrays!)
+Enter choice: 
+Input a size for the random array: 
+Input a lower bound on the range of random numbers: 
+Input an upper bound on the range of random numbers: 
+Do you want to print the unsorted array? (y/n): 
+Here is the unsorted array: 
+[185,827,830,572,305,198,100,816,480,853,485,410,611,967,51,557,244,833,313,69,58,677,895,819,16,385,411,678,597,211]
+
+Sorting with selection sort...
+Do you want to print the sorted array? (y/n): 
+Here is the sorted array: 
+[16,51,58,69,100,185,198,211,244,305,313,385,410,411,480,485,557,572,597,611,677,678,816,819,827,830,833,853,895,967]
+
+30 numbers were sorted in 0.00195276 seconds.
+
+Do you want to quit? (y/n): 
+
+Select a sort:
+1) Bubble Sort
+2) Insertion Sort
+3) Selection Sort
+4) Bogo Sort (use only with very small arrays!)
+Enter choice: 
+Input a size for the random array: 
+Input a lower bound on the range of random numbers: 
+Input an upper bound on the range of random numbers: 
+Do you want to print the unsorted array? (y/n): 
+Here is the unsorted array: 
+[185,827,830,572,305,198,100,816]
+
+Sorting with bogo sort...
+Do you want to print the sorted array? (y/n): 
+Here is the sorted array: 
+[100,185,198,305,572,816,827,830]
+
+8 numbers were sorted in 0.0342706 seconds.
+
+Do you want to quit? (y/n): 

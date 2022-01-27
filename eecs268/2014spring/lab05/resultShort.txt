@@ -1,0 +1,187 @@
+
+
+Select an action:
+1) Add to check out lane 1
+2) Add to check out lane 2
+3) See who is at the front of lane 1
+4) See who is at the front of lane 2
+5) Print all names in lane 1
+6) Print all names in lane 2
+7) Check out a customer in lane 1
+8) Check out a customer in lane 2
+9) Compare Queues
+10) Quit
+Enter choice: 
+You chose: 1
+Who is going in lane 1?: 
+Sam successfully added to the lane 1
+
+
+Select an action:
+1) Add to check out lane 1
+2) Add to check out lane 2
+3) See who is at the front of lane 1
+4) See who is at the front of lane 2
+5) Print all names in lane 1
+6) Print all names in lane 2
+7) Check out a customer in lane 1
+8) Check out a customer in lane 2
+9) Compare Queues
+10) Quit
+Enter choice: 
+You chose: 2
+Who is going in lane 2?: 
+Paul successfully added to the lane 2
+
+
+Select an action:
+1) Add to check out lane 1
+2) Add to check out lane 2
+3) See who is at the front of lane 1
+4) See who is at the front of lane 2
+5) Print all names in lane 1
+6) Print all names in lane 2
+7) Check out a customer in lane 1
+8) Check out a customer in lane 2
+9) Compare Queues
+10) Quit
+Enter choice: 
+You chose: 2
+Who is going in lane 2?: 
+George successfully added to the lane 2
+
+
+Select an action:
+1) Add to check out lane 1
+2) Add to check out lane 2
+3) See who is at the front of lane 1
+4) See who is at the front of lane 2
+5) Print all names in lane 1
+6) Print all names in lane 2
+7) Check out a customer in lane 1
+8) Check out a customer in lane 2
+9) Compare Queues
+10) Quit
+Enter choice: 
+You chose: 2
+Who is going in lane 2?: 
+Ringo successfully added to the lane 2
+
+
+Select an action:
+1) Add to check out lane 1
+2) Add to check out lane 2
+3) See who is at the front of lane 1
+4) See who is at the front of lane 2
+5) Print all names in lane 1
+6) Print all names in lane 2
+7) Check out a customer in lane 1
+8) Check out a customer in lane 2
+9) Compare Queues
+10) Quit
+Enter choice: 
+You chose: 5
+Sam
+
+
+Select an action:
+1) Add to check out lane 1
+2) Add to check out lane 2
+3) See who is at the front of lane 1
+4) See who is at the front of lane 2
+5) Print all names in lane 1
+6) Print all names in lane 2
+7) Check out a customer in lane 1
+8) Check out a customer in lane 2
+9) Compare Queues
+10) Quit
+Enter choice: 
+You chose: 6
+Paul,George,Ringo
+
+
+Select an action:
+1) Add to check out lane 1
+2) Add to check out lane 2
+3) See who is at the front of lane 1
+4) See who is at the front of lane 2
+5) Print all names in lane 1
+6) Print all names in lane 2
+7) Check out a customer in lane 1
+8) Check out a customer in lane 2
+9) Compare Queues
+10) Quit
+Enter choice: 
+You chose: 9
+
+Comparison of queues:
+lane 1 < lane 2: 1
+lane 1 > lane 2: 0
+lane 1 >= lane 2: 0
+lane 1 <= lane 2: 1
+lane 1 == lane 2: 0
+lane 1 != lane 2: 1
+
+
+Select an action:
+1) Add to check out lane 1
+2) Add to check out lane 2
+3) See who is at the front of lane 1
+4) See who is at the front of lane 2
+5) Print all names in lane 1
+6) Print all names in lane 2
+7) Check out a customer in lane 1
+8) Check out a customer in lane 2
+9) Compare Queues
+10) Quit
+Enter choice: 
+You chose: 3
+Sam is at the front of the lane 1
+
+
+Select an action:
+1) Add to check out lane 1
+2) Add to check out lane 2
+3) See who is at the front of lane 1
+4) See who is at the front of lane 2
+5) Print all names in lane 1
+6) Print all names in lane 2
+7) Check out a customer in lane 1
+8) Check out a customer in lane 2
+9) Compare Queues
+10) Quit
+Enter choice: 
+You chose: 7
+Sam checked out from lane 1
+
+
+Select an action:
+1) Add to check out lane 1
+2) Add to check out lane 2
+3) See who is at the front of lane 1
+4) See who is at the front of lane 2
+5) Print all names in lane 1
+6) Print all names in lane 2
+7) Check out a customer in lane 1
+8) Check out a customer in lane 2
+9) Compare Queues
+10) Quit
+Enter choice: 
+You chose: 3
+Exception: Peak attempted on empty queue
+
+
+Select an action:
+1) Add to check out lane 1
+2) Add to check out lane 2
+3) See who is at the front of lane 1
+4) See who is at the front of lane 2
+5) Print all names in lane 1
+6) Print all names in lane 2
+7) Check out a customer in lane 1
+8) Check out a customer in lane 2
+9) Compare Queues
+10) Quit
+Enter choice: 
+You chose: 10
+Program ending

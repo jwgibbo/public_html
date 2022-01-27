@@ -1,0 +1,324 @@
+
+
+Select an action:
+1) Add to stack 1
+2) Add to stack 2
+3) See what is at the top of stack 1
+4) See what is at the top of stack 2
+5) Print all stack 1
+6) Print all stack 2
+7) Pop stack 1
+8) Pop stack 2
+9) Compare Stacks
+10) Quit
+Enter choice: 
+You chose: 1
+What is going in stack 1?: 
+Games successfully added to stack 1
+
+
+Select an action:
+1) Add to stack 1
+2) Add to stack 2
+3) See what is at the top of stack 1
+4) See what is at the top of stack 2
+5) Print all stack 1
+6) Print all stack 2
+7) Pop stack 1
+8) Pop stack 2
+9) Compare Stacks
+10) Quit
+Enter choice: 
+You chose: 1
+What is going in stack 1?: 
+Toys successfully added to stack 1
+
+
+Select an action:
+1) Add to stack 1
+2) Add to stack 2
+3) See what is at the top of stack 1
+4) See what is at the top of stack 2
+5) Print all stack 1
+6) Print all stack 2
+7) Pop stack 1
+8) Pop stack 2
+9) Compare Stacks
+10) Quit
+Enter choice: 
+You chose: 1
+What is going in stack 1?: 
+Books successfully added to stack 1
+
+
+Select an action:
+1) Add to stack 1
+2) Add to stack 2
+3) See what is at the top of stack 1
+4) See what is at the top of stack 2
+5) Print all stack 1
+6) Print all stack 2
+7) Pop stack 1
+8) Pop stack 2
+9) Compare Stacks
+10) Quit
+Enter choice: 
+You chose: 2
+What is going in stack 2?: 
+Shirts successfully added to stack 2
+
+
+Select an action:
+1) Add to stack 1
+2) Add to stack 2
+3) See what is at the top of stack 1
+4) See what is at the top of stack 2
+5) Print all stack 1
+6) Print all stack 2
+7) Pop stack 1
+8) Pop stack 2
+9) Compare Stacks
+10) Quit
+Enter choice: 
+You chose: 2
+What is going in stack 2?: 
+Pants successfully added to stack 2
+
+
+Select an action:
+1) Add to stack 1
+2) Add to stack 2
+3) See what is at the top of stack 1
+4) See what is at the top of stack 2
+5) Print all stack 1
+6) Print all stack 2
+7) Pop stack 1
+8) Pop stack 2
+9) Compare Stacks
+10) Quit
+Enter choice: 
+You chose: 2
+What is going in stack 2?: 
+Shoes successfully added to stack 2
+
+
+Select an action:
+1) Add to stack 1
+2) Add to stack 2
+3) See what is at the top of stack 1
+4) See what is at the top of stack 2
+5) Print all stack 1
+6) Print all stack 2
+7) Pop stack 1
+8) Pop stack 2
+9) Compare Stacks
+10) Quit
+Enter choice: 
+You chose: 5
+Books,Toys,Games
+
+
+Select an action:
+1) Add to stack 1
+2) Add to stack 2
+3) See what is at the top of stack 1
+4) See what is at the top of stack 2
+5) Print all stack 1
+6) Print all stack 2
+7) Pop stack 1
+8) Pop stack 2
+9) Compare Stacks
+10) Quit
+Enter choice: 
+You chose: 6
+Shoes,Pants,Shirts
+
+
+Select an action:
+1) Add to stack 1
+2) Add to stack 2
+3) See what is at the top of stack 1
+4) See what is at the top of stack 2
+5) Print all stack 1
+6) Print all stack 2
+7) Pop stack 1
+8) Pop stack 2
+9) Compare Stacks
+10) Quit
+Enter choice: 
+You chose: 9
+
+Comparison of stacks:
+stack 1 < stack 2: 0
+stack 1 > stack 2: 0
+stack 1 >= stack 2: 1
+stack 1 <= stack 2: 1
+stack 1 == stack 2: 1
+stack 1 != stack 2: 0
+
+
+Select an action:
+1) Add to stack 1
+2) Add to stack 2
+3) See what is at the top of stack 1
+4) See what is at the top of stack 2
+5) Print all stack 1
+6) Print all stack 2
+7) Pop stack 1
+8) Pop stack 2
+9) Compare Stacks
+10) Quit
+Enter choice: 
+You chose: 7
+Books removed from stack 1
+
+
+Select an action:
+1) Add to stack 1
+2) Add to stack 2
+3) See what is at the top of stack 1
+4) See what is at the top of stack 2
+5) Print all stack 1
+6) Print all stack 2
+7) Pop stack 1
+8) Pop stack 2
+9) Compare Stacks
+10) Quit
+Enter choice: 
+You chose: 7
+Toys removed from stack 1
+
+
+Select an action:
+1) Add to stack 1
+2) Add to stack 2
+3) See what is at the top of stack 1
+4) See what is at the top of stack 2
+5) Print all stack 1
+6) Print all stack 2
+7) Pop stack 1
+8) Pop stack 2
+9) Compare Stacks
+10) Quit
+Enter choice: 
+You chose: 7
+Games removed from stack 1
+
+
+Select an action:
+1) Add to stack 1
+2) Add to stack 2
+3) See what is at the top of stack 1
+4) See what is at the top of stack 2
+5) Print all stack 1
+6) Print all stack 2
+7) Pop stack 1
+8) Pop stack 2
+9) Compare Stacks
+10) Quit
+Enter choice: 
+You chose: 7
+Exception: Pop attempted on an empty stack
+
+
+Select an action:
+1) Add to stack 1
+2) Add to stack 2
+3) See what is at the top of stack 1
+4) See what is at the top of stack 2
+5) Print all stack 1
+6) Print all stack 2
+7) Pop stack 1
+8) Pop stack 2
+9) Compare Stacks
+10) Quit
+Enter choice: 
+You chose: 8
+Shoes removed from stack 2
+
+
+Select an action:
+1) Add to stack 1
+2) Add to stack 2
+3) See what is at the top of stack 1
+4) See what is at the top of stack 2
+5) Print all stack 1
+6) Print all stack 2
+7) Pop stack 1
+8) Pop stack 2
+9) Compare Stacks
+10) Quit
+Enter choice: 
+You chose: 8
+Pants removed from stack 2
+
+
+Select an action:
+1) Add to stack 1
+2) Add to stack 2
+3) See what is at the top of stack 1
+4) See what is at the top of stack 2
+5) Print all stack 1
+6) Print all stack 2
+7) Pop stack 1
+8) Pop stack 2
+9) Compare Stacks
+10) Quit
+Enter choice: 
+You chose: 8
+Shirts removed from stack 2
+
+
+Select an action:
+1) Add to stack 1
+2) Add to stack 2
+3) See what is at the top of stack 1
+4) See what is at the top of stack 2
+5) Print all stack 1
+6) Print all stack 2
+7) Pop stack 1
+8) Pop stack 2
+9) Compare Stacks
+10) Quit
+Enter choice: 
+You chose: 8
+Exception: Pop attempted on an empty stack
+
+
+Select an action:
+1) Add to stack 1
+2) Add to stack 2
+3) See what is at the top of stack 1
+4) See what is at the top of stack 2
+5) Print all stack 1
+6) Print all stack 2
+7) Pop stack 1
+8) Pop stack 2
+9) Compare Stacks
+10) Quit
+Enter choice: 
+You chose: 9
+
+Comparison of stacks:
+stack 1 < stack 2: 0
+stack 1 > stack 2: 0
+stack 1 >= stack 2: 1
+stack 1 <= stack 2: 1
+stack 1 == stack 2: 1
+stack 1 != stack 2: 0
+
+
+Select an action:
+1) Add to stack 1
+2) Add to stack 2
+3) See what is at the top of stack 1
+4) See what is at the top of stack 2
+5) Print all stack 1
+6) Print all stack 2
+7) Pop stack 1
+8) Pop stack 2
+9) Compare Stacks
+10) Quit
+Enter choice: 
+You chose: 10
+Program ending

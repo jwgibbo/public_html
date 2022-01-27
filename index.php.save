@@ -1,0 +1,15 @@
+<?php
+	<!DOCTYPE html>
+	<html>
+		<head>
+
+		</head>
+		<body>
+			<p>Please see the ittc wiki for course website: </p>
+			<ul>
+				<li> <a href="https://wiki.ittc.ku.edu/ittc_wiki/index.php/EECS168"> EECS 168 </a> </li>
+			<li> <a 	href="https://wiki.ittc.ku.edu/ittc_wiki/index.php/EECS268"> EECS 268 </a> </li>
+			<li> <a href="https://wiki.ittc.ku.edu/ittc_wiki/index.php/EECS448"> EECS 448 </a> </li>
+		</ul>
+	</body>
+</html>

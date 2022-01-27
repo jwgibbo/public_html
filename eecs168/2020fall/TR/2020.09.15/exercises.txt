@@ -1,0 +1,15 @@
+Write a main.cpp that obtains an integer from the user and prints the absolute value to the user. DO NOT use math.h.
+
+
+
+
+
+
+Open a restaurant. You serve pasta and lobster. Allow to choose one of these items. They can choose pasta by typing a P or p and they choose lobster by typing a L or l (little el).  After you get their choice as them how many they want. 
+Pasta $9.55
+Lobster $5000
+Example:
+>./food
+Do you want Pasta (P/p) or Lobster (L/l)?: L
+How many?: 2
+Total: $10000

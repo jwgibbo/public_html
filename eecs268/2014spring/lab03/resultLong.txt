@@ -1,0 +1,432 @@
+
+
+Select an action:
+1) Push onto the number stack
+2) Push onto the character stack
+3) Peek at top of number stack
+4) Peek at top of character stack
+5) Pop top of number stack
+6) Pop top of char stack
+7) Check size of number stack
+8) Check size of char stack
+9) Quit
+Enter choice: 
+You selected: 1
+Enter a number: 
+2 added to stack
+
+
+Select an action:
+1) Push onto the number stack
+2) Push onto the character stack
+3) Peek at top of number stack
+4) Peek at top of character stack
+5) Pop top of number stack
+6) Pop top of char stack
+7) Check size of number stack
+8) Check size of char stack
+9) Quit
+Enter choice: 
+You selected: 1
+Enter a number: 
+4 added to stack
+
+
+Select an action:
+1) Push onto the number stack
+2) Push onto the character stack
+3) Peek at top of number stack
+4) Peek at top of character stack
+5) Pop top of number stack
+6) Pop top of char stack
+7) Check size of number stack
+8) Check size of char stack
+9) Quit
+Enter choice: 
+You selected: 1
+Enter a number: 
+8 added to stack
+
+
+Select an action:
+1) Push onto the number stack
+2) Push onto the character stack
+3) Peek at top of number stack
+4) Peek at top of character stack
+5) Pop top of number stack
+6) Pop top of char stack
+7) Check size of number stack
+8) Check size of char stack
+9) Quit
+Enter choice: 
+You selected: 1
+Enter a number: 
+16 added to stack
+
+
+Select an action:
+1) Push onto the number stack
+2) Push onto the character stack
+3) Peek at top of number stack
+4) Peek at top of character stack
+5) Pop top of number stack
+6) Pop top of char stack
+7) Check size of number stack
+8) Check size of char stack
+9) Quit
+Enter choice: 
+You selected: 7
+The number stack contains 4 numbers
+
+
+Select an action:
+1) Push onto the number stack
+2) Push onto the character stack
+3) Peek at top of number stack
+4) Peek at top of character stack
+5) Pop top of number stack
+6) Pop top of char stack
+7) Check size of number stack
+8) Check size of char stack
+9) Quit
+Enter choice: 
+You selected: 5
+16 has been removed from the stack
+
+
+Select an action:
+1) Push onto the number stack
+2) Push onto the character stack
+3) Peek at top of number stack
+4) Peek at top of character stack
+5) Pop top of number stack
+6) Pop top of char stack
+7) Check size of number stack
+8) Check size of char stack
+9) Quit
+Enter choice: 
+You selected: 5
+8 has been removed from the stack
+
+
+Select an action:
+1) Push onto the number stack
+2) Push onto the character stack
+3) Peek at top of number stack
+4) Peek at top of character stack
+5) Pop top of number stack
+6) Pop top of char stack
+7) Check size of number stack
+8) Check size of char stack
+9) Quit
+Enter choice: 
+You selected: 5
+4 has been removed from the stack
+
+
+Select an action:
+1) Push onto the number stack
+2) Push onto the character stack
+3) Peek at top of number stack
+4) Peek at top of character stack
+5) Pop top of number stack
+6) Pop top of char stack
+7) Check size of number stack
+8) Check size of char stack
+9) Quit
+Enter choice: 
+You selected: 5
+2 has been removed from the stack
+
+
+Select an action:
+1) Push onto the number stack
+2) Push onto the character stack
+3) Peek at top of number stack
+4) Peek at top of character stack
+5) Pop top of number stack
+6) Pop top of char stack
+7) Check size of number stack
+8) Check size of char stack
+9) Quit
+Enter choice: 
+You selected: 5
+Pop attempted on empty stack
+
+Select an action:
+1) Push onto the number stack
+2) Push onto the character stack
+3) Peek at top of number stack
+4) Peek at top of character stack
+5) Pop top of number stack
+6) Pop top of char stack
+7) Check size of number stack
+8) Check size of char stack
+9) Quit
+Enter choice: 
+You selected: 7
+The number stack contains 0 numbers
+
+
+Select an action:
+1) Push onto the number stack
+2) Push onto the character stack
+3) Peek at top of number stack
+4) Peek at top of character stack
+5) Pop top of number stack
+6) Pop top of char stack
+7) Check size of number stack
+8) Check size of char stack
+9) Quit
+Enter choice: 
+You selected: 1
+Enter a number: 
+64 added to stack
+
+
+Select an action:
+1) Push onto the number stack
+2) Push onto the character stack
+3) Peek at top of number stack
+4) Peek at top of character stack
+5) Pop top of number stack
+6) Pop top of char stack
+7) Check size of number stack
+8) Check size of char stack
+9) Quit
+Enter choice: 
+You selected: 7
+The number stack contains 1 numbers
+
+
+Select an action:
+1) Push onto the number stack
+2) Push onto the character stack
+3) Peek at top of number stack
+4) Peek at top of character stack
+5) Pop top of number stack
+6) Pop top of char stack
+7) Check size of number stack
+8) Check size of char stack
+9) Quit
+Enter choice: 
+You selected: 2
+Enter a character: 
+a added to stack
+
+
+Select an action:
+1) Push onto the number stack
+2) Push onto the character stack
+3) Peek at top of number stack
+4) Peek at top of character stack
+5) Pop top of number stack
+6) Pop top of char stack
+7) Check size of number stack
+8) Check size of char stack
+9) Quit
+Enter choice: 
+You selected: 2
+Enter a character: 
+b added to stack
+
+
+Select an action:
+1) Push onto the number stack
+2) Push onto the character stack
+3) Peek at top of number stack
+4) Peek at top of character stack
+5) Pop top of number stack
+6) Pop top of char stack
+7) Check size of number stack
+8) Check size of char stack
+9) Quit
+Enter choice: 
+You selected: 2
+Enter a character: 
+c added to stack
+
+
+Select an action:
+1) Push onto the number stack
+2) Push onto the character stack
+3) Peek at top of number stack
+4) Peek at top of character stack
+5) Pop top of number stack
+6) Pop top of char stack
+7) Check size of number stack
+8) Check size of char stack
+9) Quit
+Enter choice: 
+You selected: 2
+Enter a character: 
+d added to stack
+
+
+Select an action:
+1) Push onto the number stack
+2) Push onto the character stack
+3) Peek at top of number stack
+4) Peek at top of character stack
+5) Pop top of number stack
+6) Pop top of char stack
+7) Check size of number stack
+8) Check size of char stack
+9) Quit
+Enter choice: 
+You selected: 2
+Enter a character: 
+e added to stack
+
+
+Select an action:
+1) Push onto the number stack
+2) Push onto the character stack
+3) Peek at top of number stack
+4) Peek at top of character stack
+5) Pop top of number stack
+6) Pop top of char stack
+7) Check size of number stack
+8) Check size of char stack
+9) Quit
+Enter choice: 
+You selected: 2
+Enter a character: 
+f added to stack
+
+
+Select an action:
+1) Push onto the number stack
+2) Push onto the character stack
+3) Peek at top of number stack
+4) Peek at top of character stack
+5) Pop top of number stack
+6) Pop top of char stack
+7) Check size of number stack
+8) Check size of char stack
+9) Quit
+Enter choice: 
+You selected: 2
+Enter a character: 
+g added to stack
+
+
+Select an action:
+1) Push onto the number stack
+2) Push onto the character stack
+3) Peek at top of number stack
+4) Peek at top of character stack
+5) Pop top of number stack
+6) Pop top of char stack
+7) Check size of number stack
+8) Check size of char stack
+9) Quit
+Enter choice: 
+You selected: 8
+The number stack contains 7 characters
+
+
+Select an action:
+1) Push onto the number stack
+2) Push onto the character stack
+3) Peek at top of number stack
+4) Peek at top of character stack
+5) Pop top of number stack
+6) Pop top of char stack
+7) Check size of number stack
+8) Check size of char stack
+9) Quit
+Enter choice: 
+You selected: 3
+The top of the stack is 64
+
+
+Select an action:
+1) Push onto the number stack
+2) Push onto the character stack
+3) Peek at top of number stack
+4) Peek at top of character stack
+5) Pop top of number stack
+6) Pop top of char stack
+7) Check size of number stack
+8) Check size of char stack
+9) Quit
+Enter choice: 
+You selected: 4
+The top of the stack is g
+
+
+Select an action:
+1) Push onto the number stack
+2) Push onto the character stack
+3) Peek at top of number stack
+4) Peek at top of character stack
+5) Pop top of number stack
+6) Pop top of char stack
+7) Check size of number stack
+8) Check size of char stack
+9) Quit
+Enter choice: 
+You selected: 5
+64 has been removed from the stack
+
+
+Select an action:
+1) Push onto the number stack
+2) Push onto the character stack
+3) Peek at top of number stack
+4) Peek at top of character stack
+5) Pop top of number stack
+6) Pop top of char stack
+7) Check size of number stack
+8) Check size of char stack
+9) Quit
+Enter choice: 
+You selected: 6
+g has been removed from the stack
+
+
+Select an action:
+1) Push onto the number stack
+2) Push onto the character stack
+3) Peek at top of number stack
+4) Peek at top of character stack
+5) Pop top of number stack
+6) Pop top of char stack
+7) Check size of number stack
+8) Check size of char stack
+9) Quit
+Enter choice: 
+You selected: 7
+The number stack contains 0 numbers
+
+
+Select an action:
+1) Push onto the number stack
+2) Push onto the character stack
+3) Peek at top of number stack
+4) Peek at top of character stack
+5) Pop top of number stack
+6) Pop top of char stack
+7) Check size of number stack
+8) Check size of char stack
+9) Quit
+Enter choice: 
+You selected: 8
+The number stack contains 6 characters
+
+
+Select an action:
+1) Push onto the number stack
+2) Push onto the character stack
+3) Peek at top of number stack
+4) Peek at top of character stack
+5) Pop top of number stack
+6) Pop top of char stack
+7) Check size of number stack
+8) Check size of char stack
+9) Quit
+Enter choice: 
+You selected: 9
+
+Exiting...

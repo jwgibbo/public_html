@@ -1,0 +1,311 @@
+
+
+Select from the following menu:
+1) Add to the front of the list
+2) Add to the end of the list
+3) Remove from front of the list
+4) Remove from back of the list
+5) Print the list
+6) Search for value
+7) Exit
+8) Run tests
+Enter your choice: You chose: 5
+Printng list:
+
+
+Select from the following menu:
+1) Add to the front of the list
+2) Add to the end of the list
+3) Remove from front of the list
+4) Remove from back of the list
+5) Print the list
+6) Search for value
+7) Exit
+8) Run tests
+Enter your choice: You chose: 1
+Input a value to add: Adding 99 to the list
+
+
+Select from the following menu:
+1) Add to the front of the list
+2) Add to the end of the list
+3) Remove from front of the list
+4) Remove from back of the list
+5) Print the list
+6) Search for value
+7) Exit
+8) Run tests
+Enter your choice: You chose: 2
+Input a value to add: Adding 45 to the list
+
+
+Select from the following menu:
+1) Add to the front of the list
+2) Add to the end of the list
+3) Remove from front of the list
+4) Remove from back of the list
+5) Print the list
+6) Search for value
+7) Exit
+8) Run tests
+Enter your choice: You chose: 1
+Input a value to add: Adding 10 to the list
+
+
+Select from the following menu:
+1) Add to the front of the list
+2) Add to the end of the list
+3) Remove from front of the list
+4) Remove from back of the list
+5) Print the list
+6) Search for value
+7) Exit
+8) Run tests
+Enter your choice: You chose: 1
+Input a value to add: Adding 5 to the list
+
+
+Select from the following menu:
+1) Add to the front of the list
+2) Add to the end of the list
+3) Remove from front of the list
+4) Remove from back of the list
+5) Print the list
+6) Search for value
+7) Exit
+8) Run tests
+Enter your choice: You chose: 6
+Enter a value to search for:Searching for 45...
+45 is in the list.
+
+
+Select from the following menu:
+1) Add to the front of the list
+2) Add to the end of the list
+3) Remove from front of the list
+4) Remove from back of the list
+5) Print the list
+6) Search for value
+7) Exit
+8) Run tests
+Enter your choice: You chose: 6
+Enter a value to search for:Searching for 1000...
+1000 is not in the list
+
+
+Select from the following menu:
+1) Add to the front of the list
+2) Add to the end of the list
+3) Remove from front of the list
+4) Remove from back of the list
+5) Print the list
+6) Search for value
+7) Exit
+8) Run tests
+Enter your choice: You chose: 25
+Invalid choice.
+
+
+Select from the following menu:
+1) Add to the front of the list
+2) Add to the end of the list
+3) Remove from front of the list
+4) Remove from back of the list
+5) Print the list
+6) Search for value
+7) Exit
+8) Run tests
+Enter your choice: You chose: 2
+Input a value to add: Adding 33 to the list
+
+
+Select from the following menu:
+1) Add to the front of the list
+2) Add to the end of the list
+3) Remove from front of the list
+4) Remove from back of the list
+5) Print the list
+6) Search for value
+7) Exit
+8) Run tests
+Enter your choice: You chose: 2
+Input a value to add: Adding 84 to the list
+
+
+Select from the following menu:
+1) Add to the front of the list
+2) Add to the end of the list
+3) Remove from front of the list
+4) Remove from back of the list
+5) Print the list
+6) Search for value
+7) Exit
+8) Run tests
+Enter your choice: You chose: 2
+Input a value to add: Adding 15 to the list
+
+
+Select from the following menu:
+1) Add to the front of the list
+2) Add to the end of the list
+3) Remove from front of the list
+4) Remove from back of the list
+5) Print the list
+6) Search for value
+7) Exit
+8) Run tests
+Enter your choice: You chose: 5
+Printng list:
+5 10 99 45 33 84 15 
+
+
+Select from the following menu:
+1) Add to the front of the list
+2) Add to the end of the list
+3) Remove from front of the list
+4) Remove from back of the list
+5) Print the list
+6) Search for value
+7) Exit
+8) Run tests
+Enter your choice: You chose: 3
+Attempting removal from front of list.
+Removal successful.
+
+
+Select from the following menu:
+1) Add to the front of the list
+2) Add to the end of the list
+3) Remove from front of the list
+4) Remove from back of the list
+5) Print the list
+6) Search for value
+7) Exit
+8) Run tests
+Enter your choice: You chose: 4
+Attempting removal from back of list.
+Removal successful.
+
+
+Select from the following menu:
+1) Add to the front of the list
+2) Add to the end of the list
+3) Remove from front of the list
+4) Remove from back of the list
+5) Print the list
+6) Search for value
+7) Exit
+8) Run tests
+Enter your choice: You chose: 3
+Attempting removal from front of list.
+Removal successful.
+
+
+Select from the following menu:
+1) Add to the front of the list
+2) Add to the end of the list
+3) Remove from front of the list
+4) Remove from back of the list
+5) Print the list
+6) Search for value
+7) Exit
+8) Run tests
+Enter your choice: You chose: 3
+Attempting removal from front of list.
+Removal successful.
+
+
+Select from the following menu:
+1) Add to the front of the list
+2) Add to the end of the list
+3) Remove from front of the list
+4) Remove from back of the list
+5) Print the list
+6) Search for value
+7) Exit
+8) Run tests
+Enter your choice: You chose: 4
+Attempting removal from back of list.
+Removal successful.
+
+
+Select from the following menu:
+1) Add to the front of the list
+2) Add to the end of the list
+3) Remove from front of the list
+4) Remove from back of the list
+5) Print the list
+6) Search for value
+7) Exit
+8) Run tests
+Enter your choice: You chose: 5
+Printng list:
+45 33 
+
+
+Select from the following menu:
+1) Add to the front of the list
+2) Add to the end of the list
+3) Remove from front of the list
+4) Remove from back of the list
+5) Print the list
+6) Search for value
+7) Exit
+8) Run tests
+Enter your choice: You chose: 3
+Attempting removal from front of list.
+Removal successful.
+
+
+Select from the following menu:
+1) Add to the front of the list
+2) Add to the end of the list
+3) Remove from front of the list
+4) Remove from back of the list
+5) Print the list
+6) Search for value
+7) Exit
+8) Run tests
+Enter your choice: You chose: 3
+Attempting removal from front of list.
+Removal successful.
+
+
+Select from the following menu:
+1) Add to the front of the list
+2) Add to the end of the list
+3) Remove from front of the list
+4) Remove from back of the list
+5) Print the list
+6) Search for value
+7) Exit
+8) Run tests
+Enter your choice: You chose: 3
+Attempting removal from front of list.
+There are no values to remove.
+
+
+Select from the following menu:
+1) Add to the front of the list
+2) Add to the end of the list
+3) Remove from front of the list
+4) Remove from back of the list
+5) Print the list
+6) Search for value
+7) Exit
+8) Run tests
+Enter your choice: You chose: 5
+Printng list:
+
+
+Select from the following menu:
+1) Add to the front of the list
+2) Add to the end of the list
+3) Remove from front of the list
+4) Remove from back of the list
+5) Print the list
+6) Search for value
+7) Exit
+8) Run tests
+Enter your choice: You chose: 7
+Exiting...

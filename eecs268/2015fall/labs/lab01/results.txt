@@ -1,0 +1,195 @@
+
+
+Player 1, build your Pokemon!
+=====================
+Please name your pokemon: 
+How many hit points will it have? (1-50): 
+Split fifty points between attack level and defense level
+Enter your attack level (1-49): 
+Enter your defense level (1-15): 
+Sorry. The defense level must be between 1 and 15: 
+Player 2, build your Pokemon!
+=====================
+Please name your pokemon: 
+Your name must be at least 1 character long: 
+How many hit points will it have? (1-50): 
+Split fifty points between attack level and defense level
+Enter your attack level (1-49): 
+Enter your defense level (1-25): 
+Sorry. The defense level must be between 1 and 25: 
+Choosing which player to go first:
+Player 1 will go first.
+
+
+Round 1!
+
+Superman is attacking Batman
+Superman rolls an attack bonus of 18
+Batman rolls a defense bonus of 13
+The attack hits dealing 3-D6 damage!
+The rolls are are 1, 2, and 4 totaling: 7 damage!
+Batman has 43 hit points left
+Batman is attacking Superman
+Batman rolls an attack bonus of 16
+Superman rolls a defense bonus of 2
+The attack hits dealing 3-D6 damage!
+The rolls are are 1, 5, and 4 totaling: 10 damage!
+Superman has 40 hit points left
+
+
+Round 2!
+
+Superman is attacking Batman
+Superman rolls an attack bonus of 9
+Batman rolls a defense bonus of 17
+The attack hits dealing 3-D6 damage!
+The rolls are are 6, 4, and 6 totaling: 16 damage!
+Batman has 27 hit points left
+Batman is attacking Superman
+Batman rolls an attack bonus of 4
+Superman rolls a defense bonus of 3
+The attack hits dealing 3-D6 damage!
+The rolls are are 3, 1, and 2 totaling: 6 damage!
+Superman has 34 hit points left
+
+
+Round 3!
+
+Superman is attacking Batman
+Superman rolls an attack bonus of 12
+Batman rolls a defense bonus of 12
+The attack hits dealing 3-D6 damage!
+The rolls are are 2, 3, and 3 totaling: 8 damage!
+Batman has 19 hit points left
+Batman is attacking Superman
+Batman rolls an attack bonus of 5
+Superman rolls a defense bonus of 17
+The attack missed!
+
+
+Round 4!
+
+Superman is attacking Batman
+Superman rolls an attack bonus of 16
+Batman rolls a defense bonus of 9
+The attack hits dealing 3-D6 damage!
+The rolls are are 2, 2, and 5 totaling: 9 damage!
+Batman has 10 hit points left
+Batman is attacking Superman
+Batman rolls an attack bonus of 1
+Superman rolls a defense bonus of 10
+The attack hits dealing 3-D6 damage!
+The rolls are are 4, 4, and 6 totaling: 14 damage!
+Superman has 20 hit points left
+
+
+Round 5!
+
+Superman is attacking Batman
+Superman rolls an attack bonus of 15
+Batman rolls a defense bonus of 6
+The attack hits dealing 3-D6 damage!
+The rolls are are 4, 6, and 6 totaling: 16 damage!
+Batman have been defeated!
+Do you want to play again? (y/n): 
+
+
+Player 1, build your Pokemon!
+=====================
+Please name your pokemon: 
+Your name must be at least 1 character long: 
+How many hit points will it have? (1-50): 
+Split fifty points between attack level and defense level
+Enter your attack level (1-49): 
+Enter your defense level (1-40): 
+Player 2, build your Pokemon!
+=====================
+Please name your pokemon: 
+Your name must be at least 1 character long: 
+How many hit points will it have? (1-50): 
+Split fifty points between attack level and defense level
+Enter your attack level (1-49): 
+Enter your defense level (1-1): 
+Sorry. The defense level must be between 1 and 1: 
+Choosing which player to go first:
+Player 2 will go first.
+
+
+Round 1!
+
+Goldfish is attacking Cheez-its
+Goldfish rolls an attack bonus of 15
+Cheez-its rolls a defense bonus of 11
+The attack hits dealing 3-D6 damage!
+The rolls are are 1, 4, and 4 totaling: 9 damage!
+Cheez-its has 41 hit points left
+Cheez-its is attacking Goldfish
+Cheez-its rolls an attack bonus of 11
+Goldfish rolls a defense bonus of 15
+The attack hits dealing 3-D6 damage!
+The rolls are are 5, 1, and 6 totaling: 12 damage!
+Goldfish has 38 hit points left
+
+
+Round 2!
+
+Goldfish is attacking Cheez-its
+Goldfish rolls an attack bonus of 1
+Cheez-its rolls a defense bonus of 19
+The attack missed!
+Cheez-its is attacking Goldfish
+Cheez-its rolls an attack bonus of 6
+Goldfish rolls a defense bonus of 5
+The attack hits dealing 3-D6 damage!
+The rolls are are 5, 3, and 2 totaling: 10 damage!
+Goldfish has 28 hit points left
+
+
+Round 3!
+
+Goldfish is attacking Cheez-its
+Goldfish rolls an attack bonus of 15
+Cheez-its rolls a defense bonus of 16
+The attack hits dealing 3-D6 damage!
+The rolls are are 4, 5, and 2 totaling: 11 damage!
+Cheez-its has 30 hit points left
+Cheez-its is attacking Goldfish
+Cheez-its rolls an attack bonus of 17
+Goldfish rolls a defense bonus of 8
+The attack hits dealing 3-D6 damage!
+The rolls are are 1, 3, and 1 totaling: 5 damage!
+Goldfish has 23 hit points left
+
+
+Round 4!
+
+Goldfish is attacking Cheez-its
+Goldfish rolls an attack bonus of 18
+Cheez-its rolls a defense bonus of 2
+The attack hits dealing 3-D6 damage!
+The rolls are are 4, 4, and 6 totaling: 14 damage!
+Cheez-its has 16 hit points left
+Cheez-its is attacking Goldfish
+Cheez-its rolls an attack bonus of 20
+Goldfish rolls a defense bonus of 12
+The attack hits dealing 3-D6 damage!
+The rolls are are 2, 5, and 5 totaling: 12 damage!
+Goldfish has 11 hit points left
+
+
+Round 5!
+
+Goldfish is attacking Cheez-its
+Goldfish rolls an attack bonus of 20
+Cheez-its rolls a defense bonus of 10
+The attack hits dealing 3-D6 damage!
+The rolls are are 3, 3, and 6 totaling: 12 damage!
+Cheez-its has 4 hit points left
+Cheez-its is attacking Goldfish
+Cheez-its rolls an attack bonus of 11
+Goldfish rolls a defense bonus of 3
+The attack hits dealing 3-D6 damage!
+The rolls are are 4, 6, and 5 totaling: 15 damage!
+Goldfish have been defeated!
+Do you want to play again? (y/n): 
+Thanks for playing!

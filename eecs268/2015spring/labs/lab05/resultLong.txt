@@ -1,0 +1,160 @@
+
+
+Select an animal to add to the pen:
+1.) Cow (produces milk)
+2.) Chicken (cannot lay eggs)
+3.) Cyber Chicken (seems dangerous, but lays eggs)
+---------------------------------------------------
+choice: How many eggs did this cyber chicken produce?: Done adding animals? (y/n): 
+
+Select an animal to add to the pen:
+1.) Cow (produces milk)
+2.) Chicken (cannot lay eggs)
+3.) Cyber Chicken (seems dangerous, but lays eggs)
+---------------------------------------------------
+choice: How many eggs did this cyber chicken produce?: Done adding animals? (y/n): 
+
+Select an animal to add to the pen:
+1.) Cow (produces milk)
+2.) Chicken (cannot lay eggs)
+3.) Cyber Chicken (seems dangerous, but lays eggs)
+---------------------------------------------------
+choice: How many gallons of milk did this cow produce?: Done adding animals? (y/n): 
+
+Select an animal to add to the pen:
+1.) Cow (produces milk)
+2.) Chicken (cannot lay eggs)
+3.) Cyber Chicken (seems dangerous, but lays eggs)
+---------------------------------------------------
+choice: How many gallons of milk did this cow produce?: Done adding animals? (y/n): 
+
+Select an animal to add to the pen:
+1.) Cow (produces milk)
+2.) Chicken (cannot lay eggs)
+3.) Cyber Chicken (seems dangerous, but lays eggs)
+---------------------------------------------------
+choice: Add an eggless chicken to the pen? OK. You're the boss.
+Done adding animals? (y/n): 
+
+Select an animal to add to the pen:
+1.) Cow (produces milk)
+2.) Chicken (cannot lay eggs)
+3.) Cyber Chicken (seems dangerous, but lays eggs)
+---------------------------------------------------
+choice: How many eggs did this cyber chicken produce?: Done adding animals? (y/n): 
+
+Select an animal to add to the pen:
+1.) Cow (produces milk)
+2.) Chicken (cannot lay eggs)
+3.) Cyber Chicken (seems dangerous, but lays eggs)
+---------------------------------------------------
+choice: How many gallons of milk did this cow produce?: Done adding animals? (y/n): 
+
+Select an animal to add to the pen:
+1.) Cow (produces milk)
+2.) Chicken (cannot lay eggs)
+3.) Cyber Chicken (seems dangerous, but lays eggs)
+---------------------------------------------------
+choice: Add an eggless chicken to the pen? OK. You're the boss.
+Done adding animals? (y/n): 
+
+Select an animal to add to the pen:
+1.) Cow (produces milk)
+2.) Chicken (cannot lay eggs)
+3.) Cyber Chicken (seems dangerous, but lays eggs)
+---------------------------------------------------
+choice: How many gallons of milk did this cow produce?: Done adding animals? (y/n): 
+
+Select an animal to add to the pen:
+1.) Cow (produces milk)
+2.) Chicken (cannot lay eggs)
+3.) Cyber Chicken (seems dangerous, but lays eggs)
+---------------------------------------------------
+choice: Add an eggless chicken to the pen? OK. You're the boss.
+Done adding animals? (y/n): 
+
+Select an animal to add to the pen:
+1.) Cow (produces milk)
+2.) Chicken (cannot lay eggs)
+3.) Cyber Chicken (seems dangerous, but lays eggs)
+---------------------------------------------------
+choice: How many eggs did this cyber chicken produce?: Done adding animals? (y/n): 
+
+Select an animal to add to the pen:
+1.) Cow (produces milk)
+2.) Chicken (cannot lay eggs)
+3.) Cyber Chicken (seems dangerous, but lays eggs)
+---------------------------------------------------
+choice: Add an eggless chicken to the pen? OK. You're the boss.
+Done adding animals? (y/n): 
+
+Select an animal to add to the pen:
+1.) Cow (produces milk)
+2.) Chicken (cannot lay eggs)
+3.) Cyber Chicken (seems dangerous, but lays eggs)
+---------------------------------------------------
+choice: How many gallons of milk did this cow produce?: Done adding animals? (y/n): 
+
+Select an animal to add to the pen:
+1.) Cow (produces milk)
+2.) Chicken (cannot lay eggs)
+3.) Cyber Chicken (seems dangerous, but lays eggs)
+---------------------------------------------------
+choice: Add an eggless chicken to the pen? OK. You're the boss.
+Done adding animals? (y/n): 
+
+Select an animal to add to the pen:
+1.) Cow (produces milk)
+2.) Chicken (cannot lay eggs)
+3.) Cyber Chicken (seems dangerous, but lays eggs)
+---------------------------------------------------
+choice: How many eggs did this cyber chicken produce?: Done adding animals? (y/n): 
+
+Releasing all animals!
+-------------------------
+This Cyber Chicken laid 76 cyber eggs. Humanity is in trouble.
+Upon release the Cyber Chicken said Resistance is futile.
+CyberChicken Destructor called
+Chicken Destructor called
+Chicken unable to lay eggs. Perhaps cybornetic implants will help?
+Upon release the Chicken said Cluck.
+Chicken Destructor called
+This cow produced 76.6 gallons of milk
+Upon release the Cow said Moo.
+Chicken unable to lay eggs. Perhaps cybornetic implants will help?
+Upon release the Chicken said Cluck.
+Chicken Destructor called
+This Cyber Chicken laid 64 cyber eggs. Humanity is in trouble.
+Upon release the Cyber Chicken said Resistance is futile.
+CyberChicken Destructor called
+Chicken Destructor called
+Chicken unable to lay eggs. Perhaps cybornetic implants will help?
+Upon release the Chicken said Cluck.
+Chicken Destructor called
+This cow produced 45.6 gallons of milk
+Upon release the Cow said Moo.
+Chicken unable to lay eggs. Perhaps cybornetic implants will help?
+Upon release the Chicken said Cluck.
+Chicken Destructor called
+This cow produced 88.4 gallons of milk
+Upon release the Cow said Moo.
+This Cyber Chicken laid 48 cyber eggs. Humanity is in trouble.
+Upon release the Cyber Chicken said Resistance is futile.
+CyberChicken Destructor called
+Chicken Destructor called
+Chicken unable to lay eggs. Perhaps cybornetic implants will help?
+Upon release the Chicken said Cluck.
+Chicken Destructor called
+This cow produced 120 gallons of milk
+Upon release the Cow said Moo.
+This cow produced 12.5 gallons of milk
+Upon release the Cow said Moo.
+This Cyber Chicken laid 8 cyber eggs. Humanity is in trouble.
+Upon release the Cyber Chicken said Resistance is futile.
+CyberChicken Destructor called
+Chicken Destructor called
+This Cyber Chicken laid 12 cyber eggs. Humanity is in trouble.
+Upon release the Cyber Chicken said Resistance is futile.
+CyberChicken Destructor called
+Chicken Destructor called
+Your farm produced 343.1 of milk and 208 eggs.

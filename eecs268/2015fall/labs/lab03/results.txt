@@ -1,0 +1,338 @@
+
+
+Make choice
+1) push value onto front
+2) push value onto back
+3) insert behind a value
+4) insert ahead of a value
+5) remove front value
+6) remove back value
+7) remove specific value
+8) print list
+9) Quit
+10) Run Tests
+Your choice: 
+You chose : 1
+Give a value.
+
+10 added to front of list.
+
+
+Make choice
+1) push value onto front
+2) push value onto back
+3) insert behind a value
+4) insert ahead of a value
+5) remove front value
+6) remove back value
+7) remove specific value
+8) print list
+9) Quit
+10) Run Tests
+Your choice: 
+You chose : 2
+Give a value.
+
+20 added to back of list.
+
+
+Make choice
+1) push value onto front
+2) push value onto back
+3) insert behind a value
+4) insert ahead of a value
+5) remove front value
+6) remove back value
+7) remove specific value
+8) print list
+9) Quit
+10) Run Tests
+Your choice: 
+You chose : 3
+Give a value to insert. 
+Pick a value to insert behind.
+
+Attempting to insert 15 behind 10
+
+15 inserted behind 10
+
+
+Make choice
+1) push value onto front
+2) push value onto back
+3) insert behind a value
+4) insert ahead of a value
+5) remove front value
+6) remove back value
+7) remove specific value
+8) print list
+9) Quit
+10) Run Tests
+Your choice: 
+You chose : 4
+Give a value to insert. 
+Pick a value to insert ahead of.
+
+Attempting to insert 18 ahead of 20
+
+18 inserted ahead of 20
+
+
+Make choice
+1) push value onto front
+2) push value onto back
+3) insert behind a value
+4) insert ahead of a value
+5) remove front value
+6) remove back value
+7) remove specific value
+8) print list
+9) Quit
+10) Run Tests
+Your choice: 
+You chose : 4
+Give a value to insert. 
+Pick a value to insert ahead of.
+
+Attempting to insert 17 ahead of 18
+
+17 inserted ahead of 18
+
+
+Make choice
+1) push value onto front
+2) push value onto back
+3) insert behind a value
+4) insert ahead of a value
+5) remove front value
+6) remove back value
+7) remove specific value
+8) print list
+9) Quit
+10) Run Tests
+Your choice: 
+You chose : 8
+10 15 17 18 20
+
+Make choice
+1) push value onto front
+2) push value onto back
+3) insert behind a value
+4) insert ahead of a value
+5) remove front value
+6) remove back value
+7) remove specific value
+8) print list
+9) Quit
+10) Run Tests
+Your choice: 
+You chose : 6
+
+Back of list removed.
+
+
+Make choice
+1) push value onto front
+2) push value onto back
+3) insert behind a value
+4) insert ahead of a value
+5) remove front value
+6) remove back value
+7) remove specific value
+8) print list
+9) Quit
+10) Run Tests
+Your choice: 
+You chose : 5
+
+Front of list removed.
+
+
+Make choice
+1) push value onto front
+2) push value onto back
+3) insert behind a value
+4) insert ahead of a value
+5) remove front value
+6) remove back value
+7) remove specific value
+8) print list
+9) Quit
+10) Run Tests
+Your choice: 
+You chose : 8
+15 17 18
+
+Make choice
+1) push value onto front
+2) push value onto back
+3) insert behind a value
+4) insert ahead of a value
+5) remove front value
+6) remove back value
+7) remove specific value
+8) print list
+9) Quit
+10) Run Tests
+Your choice: 
+You chose : 7
+Give a value to remove.
+You gave 17
+
+17 removed from list.
+
+
+Make choice
+1) push value onto front
+2) push value onto back
+3) insert behind a value
+4) insert ahead of a value
+5) remove front value
+6) remove back value
+7) remove specific value
+8) print list
+9) Quit
+10) Run Tests
+Your choice: 
+You chose : 7
+Give a value to remove.
+You gave 100
+
+100 could not be removed from list.
+
+
+Make choice
+1) push value onto front
+2) push value onto back
+3) insert behind a value
+4) insert ahead of a value
+5) remove front value
+6) remove back value
+7) remove specific value
+8) print list
+9) Quit
+10) Run Tests
+Your choice: 
+You chose : 4
+Give a value to insert. 
+Pick a value to insert ahead of.
+
+Attempting to insert 100 ahead of 14
+The value given isn't in the list. Insert failed.
+
+
+Make choice
+1) push value onto front
+2) push value onto back
+3) insert behind a value
+4) insert ahead of a value
+5) remove front value
+6) remove back value
+7) remove specific value
+8) print list
+9) Quit
+10) Run Tests
+Your choice: 
+You chose : 8
+15 18
+
+Make choice
+1) push value onto front
+2) push value onto back
+3) insert behind a value
+4) insert ahead of a value
+5) remove front value
+6) remove back value
+7) remove specific value
+8) print list
+9) Quit
+10) Run Tests
+Your choice: 
+You chose : 5
+
+Front of list removed.
+
+
+Make choice
+1) push value onto front
+2) push value onto back
+3) insert behind a value
+4) insert ahead of a value
+5) remove front value
+6) remove back value
+7) remove specific value
+8) print list
+9) Quit
+10) Run Tests
+Your choice: 
+You chose : 5
+
+Front of list removed.
+
+
+Make choice
+1) push value onto front
+2) push value onto back
+3) insert behind a value
+4) insert ahead of a value
+5) remove front value
+6) remove back value
+7) remove specific value
+8) print list
+9) Quit
+10) Run Tests
+Your choice: 
+You chose : 5
+
+List empty
+
+
+Make choice
+1) push value onto front
+2) push value onto back
+3) insert behind a value
+4) insert ahead of a value
+5) remove front value
+6) remove back value
+7) remove specific value
+8) print list
+9) Quit
+10) Run Tests
+Your choice: 
+You chose : 5
+
+List empty
+
+
+Make choice
+1) push value onto front
+2) push value onto back
+3) insert behind a value
+4) insert ahead of a value
+5) remove front value
+6) remove back value
+7) remove specific value
+8) print list
+9) Quit
+10) Run Tests
+Your choice: 
+You chose : 5
+
+List empty
+
+
+Make choice
+1) push value onto front
+2) push value onto back
+3) insert behind a value
+4) insert ahead of a value
+5) remove front value
+6) remove back value
+7) remove specific value
+8) print list
+9) Quit
+10) Run Tests
+Your choice: 
+You chose : 9
+
+Program ending...

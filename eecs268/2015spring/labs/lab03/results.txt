@@ -1,0 +1,280 @@
+
+
+Make choice
+1) push value onto front
+2) push value onto back
+3) insert behind a value
+4) insert ahead of a value
+5) remove value
+6) print list
+7) Quit
+Your choice: 
+You chose : 1
+Give a value.
+
+82 added to front of list.
+
+
+Make choice
+1) push value onto front
+2) push value onto back
+3) insert behind a value
+4) insert ahead of a value
+5) remove value
+6) print list
+7) Quit
+Your choice: 
+You chose : 1
+Give a value.
+
+99 added to front of list.
+
+
+Make choice
+1) push value onto front
+2) push value onto back
+3) insert behind a value
+4) insert ahead of a value
+5) remove value
+6) print list
+7) Quit
+Your choice: 
+You chose : 2
+Give a value.
+
+55 added to back of list.
+
+
+Make choice
+1) push value onto front
+2) push value onto back
+3) insert behind a value
+4) insert ahead of a value
+5) remove value
+6) print list
+7) Quit
+Your choice: 
+You chose : 6
+99,82,55
+
+Make choice
+1) push value onto front
+2) push value onto back
+3) insert behind a value
+4) insert ahead of a value
+5) remove value
+6) print list
+7) Quit
+Your choice: 
+You chose : 5
+Give a value to remove.
+You gave 82
+
+82 removed from list.
+
+
+Make choice
+1) push value onto front
+2) push value onto back
+3) insert behind a value
+4) insert ahead of a value
+5) remove value
+6) print list
+7) Quit
+Your choice: 
+You chose : 5
+Give a value to remove.
+You gave 99
+
+99 removed from list.
+
+
+Make choice
+1) push value onto front
+2) push value onto back
+3) insert behind a value
+4) insert ahead of a value
+5) remove value
+6) print list
+7) Quit
+Your choice: 
+You chose : 5
+Give a value to remove.
+You gave 55
+
+55 removed from list.
+
+
+Make choice
+1) push value onto front
+2) push value onto back
+3) insert behind a value
+4) insert ahead of a value
+5) remove value
+6) print list
+7) Quit
+Your choice: 
+You chose : 2
+Give a value.
+
+34 added to back of list.
+
+
+Make choice
+1) push value onto front
+2) push value onto back
+3) insert behind a value
+4) insert ahead of a value
+5) remove value
+6) print list
+7) Quit
+Your choice: 
+You chose : 2
+Give a value.
+
+17 added to back of list.
+
+
+Make choice
+1) push value onto front
+2) push value onto back
+3) insert behind a value
+4) insert ahead of a value
+5) remove value
+6) print list
+7) Quit
+Your choice: 
+You chose : 1
+Give a value.
+
+84 added to front of list.
+
+
+Make choice
+1) push value onto front
+2) push value onto back
+3) insert behind a value
+4) insert ahead of a value
+5) remove value
+6) print list
+7) Quit
+Your choice: 
+You chose : 6
+84,34,17
+
+Make choice
+1) push value onto front
+2) push value onto back
+3) insert behind a value
+4) insert ahead of a value
+5) remove value
+6) print list
+7) Quit
+Your choice: 
+You chose : 4
+Give a value to insert. 
+Pick a value to insert ahead of.
+
+Attempting to insert 69 ahead of 84
+
+69 inserted ahead of 84
+
+
+Make choice
+1) push value onto front
+2) push value onto back
+3) insert behind a value
+4) insert ahead of a value
+5) remove value
+6) print list
+7) Quit
+Your choice: 
+You chose : 6
+69,84,34,17
+
+Make choice
+1) push value onto front
+2) push value onto back
+3) insert behind a value
+4) insert ahead of a value
+5) remove value
+6) print list
+7) Quit
+Your choice: 
+You chose : 3
+Give a value to insert. 
+Pick a value to insert behind.
+
+Attempting to insert 99 behind 17
+
+99 inserted behind 17
+
+
+Make choice
+1) push value onto front
+2) push value onto back
+3) insert behind a value
+4) insert ahead of a value
+5) remove value
+6) print list
+7) Quit
+Your choice: 
+You chose : 6
+69,84,34,17,99
+
+Make choice
+1) push value onto front
+2) push value onto back
+3) insert behind a value
+4) insert ahead of a value
+5) remove value
+6) print list
+7) Quit
+Your choice: 
+You chose : 5
+Give a value to remove.
+You gave 99
+
+99 removed from list.
+
+
+Make choice
+1) push value onto front
+2) push value onto back
+3) insert behind a value
+4) insert ahead of a value
+5) remove value
+6) print list
+7) Quit
+Your choice: 
+You chose : 5
+Give a value to remove.
+You gave 55
+
+55 could not be removed from list.
+
+
+Make choice
+1) push value onto front
+2) push value onto back
+3) insert behind a value
+4) insert ahead of a value
+5) remove value
+6) print list
+7) Quit
+Your choice: 
+You chose : 6
+69,84,34,17
+
+Make choice
+1) push value onto front
+2) push value onto back
+3) insert behind a value
+4) insert ahead of a value
+5) remove value
+6) print list
+7) Quit
+Your choice: 
+You chose : 7
+
+Program ending...

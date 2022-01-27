@@ -1,0 +1,6 @@
+print("Hello!")
+print("Welcome to my program!")
+user_age = input("How old are you?: ")
+print("It's great that you are ")
+print(user_age)
+print("years old!")

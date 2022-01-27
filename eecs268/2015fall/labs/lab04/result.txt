@@ -1,0 +1,197 @@
+
+
+Select an action:
+1) Add to stack
+2) See what is at the top of stack
+3) Print all stack
+4) Pop stack
+5) Quit
+6) Run Tests
+Enter choice: 
+You chose: 1
+What is going in stack 1?: 
+10 successfully added to stack 1
+
+
+Select an action:
+1) Add to stack
+2) See what is at the top of stack
+3) Print all stack
+4) Pop stack
+5) Quit
+6) Run Tests
+Enter choice: 
+You chose: 1
+What is going in stack 1?: 
+20 successfully added to stack 1
+
+
+Select an action:
+1) Add to stack
+2) See what is at the top of stack
+3) Print all stack
+4) Pop stack
+5) Quit
+6) Run Tests
+Enter choice: 
+You chose: 1
+What is going in stack 1?: 
+30 successfully added to stack 1
+
+
+Select an action:
+1) Add to stack
+2) See what is at the top of stack
+3) Print all stack
+4) Pop stack
+5) Quit
+6) Run Tests
+Enter choice: 
+You chose: 1
+What is going in stack 1?: 
+40 successfully added to stack 1
+
+
+Select an action:
+1) Add to stack
+2) See what is at the top of stack
+3) Print all stack
+4) Pop stack
+5) Quit
+6) Run Tests
+Enter choice: 
+You chose: 1
+What is going in stack 1?: 
+50 successfully added to stack 1
+
+
+Select an action:
+1) Add to stack
+2) See what is at the top of stack
+3) Print all stack
+4) Pop stack
+5) Quit
+6) Run Tests
+Enter choice: 
+You chose: 3
+50 40 30 20 10
+
+
+Select an action:
+1) Add to stack
+2) See what is at the top of stack
+3) Print all stack
+4) Pop stack
+5) Quit
+6) Run Tests
+Enter choice: 
+You chose: 4
+50 removed from stack 1
+
+
+Select an action:
+1) Add to stack
+2) See what is at the top of stack
+3) Print all stack
+4) Pop stack
+5) Quit
+6) Run Tests
+Enter choice: 
+You chose: 2
+40 is at the top of stack 1
+
+
+Select an action:
+1) Add to stack
+2) See what is at the top of stack
+3) Print all stack
+4) Pop stack
+5) Quit
+6) Run Tests
+Enter choice: 
+You chose: 3
+40 30 20 10
+
+
+Select an action:
+1) Add to stack
+2) See what is at the top of stack
+3) Print all stack
+4) Pop stack
+5) Quit
+6) Run Tests
+Enter choice: 
+You chose: 4
+40 removed from stack 1
+
+
+Select an action:
+1) Add to stack
+2) See what is at the top of stack
+3) Print all stack
+4) Pop stack
+5) Quit
+6) Run Tests
+Enter choice: 
+You chose: 4
+30 removed from stack 1
+
+
+Select an action:
+1) Add to stack
+2) See what is at the top of stack
+3) Print all stack
+4) Pop stack
+5) Quit
+6) Run Tests
+Enter choice: 
+You chose: 4
+20 removed from stack 1
+
+
+Select an action:
+1) Add to stack
+2) See what is at the top of stack
+3) Print all stack
+4) Pop stack
+5) Quit
+6) Run Tests
+Enter choice: 
+You chose: 4
+10 removed from stack 1
+
+
+Select an action:
+1) Add to stack
+2) See what is at the top of stack
+3) Print all stack
+4) Pop stack
+5) Quit
+6) Run Tests
+Enter choice: 
+You chose: 4
+Exception: Peek attempted on empty stack
+
+
+Select an action:
+1) Add to stack
+2) See what is at the top of stack
+3) Print all stack
+4) Pop stack
+5) Quit
+6) Run Tests
+Enter choice: 
+You chose: 2
+Exception: Peek attempted on empty stack
+
+
+Select an action:
+1) Add to stack
+2) See what is at the top of stack
+3) Print all stack
+4) Pop stack
+5) Quit
+6) Run Tests
+Enter choice: 
+You chose: 5
+Program ending

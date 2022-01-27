@@ -1,0 +1,445 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+
+<head>
+        <title>Facilities - Department of Electrical Engineering &amp; Computer Science</title>
+        <link rel="shortcut icon" href="http://www.ku.edu/favicon.ico" />
+
+
+        <!-- General Meta Data -->
+        <meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+
+           
+        <!-- General CSS Includes -->
+        <link rel="stylesheet" type="text/css" href="http://webmedia.ku.edu/css/template2009/kulayout.css" />
+        <link rel="stylesheet" type="text/css" href="http://webmedia.ku.edu/css/template2009/kupresentation.css" />
+        <!--[if IE 6]><link rel="stylesheet" type="text/css" href="http://webmedia.ku.edu/css/template2009/ku_ie6.css" /><![endif]-->
+        <!--[if IE 7]><link rel="stylesheet" type="text/css" href="http://webmedia.ku.edu/css/template2009/ku_ie7.css" /><![endif]-->
+        <!--[if IE 8]><link rel="stylesheet" type="text/css" href="http://webmedia.ku.edu/css/template2009/ku_ie8.css" /><![endif]-->
+        <link rel="stylesheet" type="text/css" href="http://webmedia.ku.edu/css/template2009/kuprint.css" media="print" />
+        <link rel="stylesheet" type="text/css" href="/css/engr-mod.css" />
+        <link rel="stylesheet" type="text/css" href="/css/eecs/core.css" />
+        <link rel="stylesheet" type="text/css" href="/css/eecs/core2.css" />
+        <link rel="stylesheet" type="text/css" href="/css/eecs/main_menu.css" />
+	<link rel="stylesheet" type="text/css" href="/css/engr_extend.css" />
+	<link rel="stylesheet" type="text/css" href="/messages_plugin/css/messages.css" />
+        <link rel="stylesheet" type="text/css" href="/css/jquery/ui/1.8.14/enable-jquery-ui/jquery-ui.css" />
+	
+        
+        <!-- General JavaScript Includes -->
+        <script type="text/javascript" src="/js/jquery/core/1.6.1/jquery.min.js"></script>
+        <script type="text/javascript" src="/js/jquery/ui/1.8.14/jquery-ui.js"></script>
+	
+	
+	<!-- Dynamic Includes -->
+        <script type="text/javascript" src="/js/jquery/plugins/log/1.0/jquery.log.js"></script>
+	<script type="text/javascript" src="/js/jquery/plugins/linkize/1.0/jquery.linkize.js"></script>
+	<link rel="stylesheet" type="text/css" href="/css/eecs/floor_map.css" />
+	<script type="text/javascript" src="/js/jquery/plugins/cycleLite/1.3/cycle-lite.js"></script>
+	<script type="text/javascript" src="/js/jquery/plugins/svg/1.4.3/jquery.svg.js"></script>
+	<script type="text/javascript" src="/js/jquery/plugins/svg/1.4.3/jquery.svgdom.js"></script>
+	<script type="text/javascript" src="/js/jquery/plugins/floorMap/1.0/jquery.floorMap.js"></script>
+	<link rel="stylesheet" type="text/css" href="/css/eecs/google_map.css" />
+	<script type="text/javascript" src="http://maps.google.com/maps/api/js?language=en&sensor=false&v=3.3"></script>
+	<script type="text/javascript" src="/js/jquery/plugins/googleMap/1.1/jquery.googleMap.js"></script>
+	<script type="text/javascript" src="/js/jquery/plugins/jQueryUIFix/1.0/jquery.jQueryUIFix.js"></script>
+	<script type="text/javascript">
+	$j = jQuery.noConflict();
+	
+	$j(document).ready(function() {
+		var options = {
+			"current" : {
+				"building" : "eaton_hall",
+				"floor" : "1"
+			},
+			"debug" : true,
+			"markers_enabled" : false,
+			"panel_enabled" : false,
+			"style" : {
+				"font" : {
+					"size" : 10
+				},
+				"rooms" : {"classroom":{"base":"#5C707F","click":"#3C4953","hover":"#677D8E"},"lab":{"base":"#BCBBB3","click":"#98978B","hover":"#C8C7C1"},"office":{"base":"#B7B19F","click":"#968D73","hover":"#C2BDAE"},"office_group":{"base":"#6C5333","click":"#372B1A","hover":"#7D603B"},"other":{"base":"#E6E3DB","click":"#C6C0AE","hover":"#F0EFEA"}}
+			},
+			"url" : {
+				"domain" : "http://eecs.ku.edu/"
+			}
+		};
+		
+		$j("div[class~=floorMap]").floorMap(options).linkize({
+		//	"debug" : true,
+			"href" : "http://eecs.ku.edu/faculty/facilities/eaton_hall",
+			"title" : "Click here to view the Eaton Hall Map"
+		});
+		
+		options = {
+			"canvas_size" : {
+				"height" : "155px"
+			},
+			"debug" : true,
+			"enable_markers" : false,
+			"init_loc" : {
+				"lat" : 38.95765991906318,
+				"lng" : -95.25171604824067
+			},
+			"map_options" : {
+				"navigationControl" : false,
+				"streetViewControl" : false
+			},
+			"url" : {
+				"domain" : "http://eecs.ku.edu/"
+			},
+			"zoom" : {
+				"init" : 16
+			}
+		};
+		
+		$j("div[class~=EECSGoogleMapCanvas]").googleMap(options).linkize({
+		//	"debug" : true,
+			"href" : "http://eecs.ku.edu/faculty/facilities/map",
+			"title" : "Click here to view the EECS Facilities Map"
+		});
+		
+		$j.jQueryUIFix();
+	});
+</script>
+	<link rel="stylesheet" type="text/css" href="/css/eecs/side_menu.css" />
+</head>
+
+<body class="">
+	<div id="ku_accessibilty_skip">
+		<a href="#maincontent"><img src="http://www.ku.edu/images/kutemplate/spacer.gif" alt="Skip redundant pieces" width="1" height="1" border="0"/></a>
+	</div>
+	<a name="top"></a>
+	<div id="kutemplate">
+		<div id="kubackground" class="background4">
+			<div class="container" id="header">
+				<div class="span-24 last">
+					<div id="logo" class="span-9" >
+						<a target="_blank" href="http://www.engr.ku.edu"><img id="mylogo" class="png" src="http://webmedia.ku.edu/images/logos/soeng.png" alt="The University of Kansas" /></a>
+					</div>
+					<div id="buildingicon" class="span-4 prepend-1 append-2">
+						<img src="http://webmedia.ku.edu/images/template2009/icons/fraser_grey_white.png" alt="The University of Kansas" border="0" class='png' />  
+					</div>
+					<div id="search" class="span-8 last">
+						<form action="http://www.ku.edu/~http/cgi-bin/search/search.php" class="ku_search" method="post">
+							<label for="searchtype" style="visibility:hidden; display:none;">Search Type</label>
+							<select id="searchtype" name="site">
+								<option value="Search this site"  selected="selected">Search this site</option>
+								<option value="kuweb">Search KU Web</option>
+								<option value="kupeople">Search KU People</option>
+								<option value="kuevents">Search KU Events</option>
+								<option value="kuinfo">Search KU Info</option>
+							</select>
+							<label for="searchtext" style="visibility:hidden; display:none;">Search Text</label>
+							<input id="searchtext"  class="ku_searchtext" name="keyword" type="text" value="keyword/name"  onclick="if(this.value == 'keyword/name') this.value='';" size="20" />
+							<input class="button" name="Search" type="image" src="http://webmedia.ku.edu/images/template2009/search.gif" alt="Search" />
+						</form>
+						<ul class="links">
+							<li><a href="http://www.ku.edu/">KU Home</a></li>
+							<li><a href="https://students.ku.edu/">Kyou</a></li>
+							<li><a href="https://mail.ku.edu/">Email</a></li>
+							<li><a href="https://courseware.ku.edu/">Blackboard</a></li>
+							<li id="azpopuplink"><a href="http://www.ku.edu/kusites/a-z.shtml" onclick="return false;">A-Z<img src="http://webmedia.ku.edu/images/template2009/downcarot.gif" class="azcarot" alt="A-Z Links" /></a></li>
+						</ul>
+						<div id="azbox">
+							<ul><li><a href="http://www.ku.edu/kusites/index.shtml?A">A</a></li><li><a href="http://www.ku.edu/kusites/index.shtml?B">B</a></li><li><a href="http://www.ku.edu/kusites/index.shtml?C">C</a></li><li><a href="http://www.ku.edu/kusites/index.shtml?D">D</a></li><li><a href="http://www.ku.edu/kusites/index.shtml?E">E</a></li><li><a href="http://www.ku.edu/kusites/index.shtml?F">F</a></li><li><a href="http://www.ku.edu/kusites/index.shtml?G">G</a></li><li><a href="http://www.ku.edu/kusites/index.shtml?H">H</a></li><li><a href="http://www.ku.edu/kusites/index.shtml?I">I</a></li><li><a href="http://www.ku.edu/kusites/index.shtml?J">J</a></li><li><a href="http://www.ku.edu/kusites/index.shtml?K">K</a></li><li><a href="http://www.ku.edu/kusites/index.shtml?L">L</a></li><li><a href="http://www.ku.edu/kusites/index.shtml?M">M</a></li><li><a href="http://www.ku.edu/kusites/index.shtml?N">N</a></li></ul><ul><li><a href="http://www.ku.edu/kusites/index.shtml?O">O</a></li><li><a href="http://www.ku.edu/kusites/index.shtml?P">P</a></li><li><a href="http://www.ku.edu/kusites/index.shtml?Q">Q</a></li><li><a href="http://www.ku.edu/kusites/index.shtml?R">R</a></li><li><a href="http://www.ku.edu/kusites/index.shtml?S">S</a></li><li><a href="http://www.ku.edu/kusites/index.shtml?T">T</a></li><li><a href="http://www.ku.edu/kusites/index.shtml?U">U</a></li><li><a href="http://www.ku.edu/kusites/index.shtml?V">V</a></li><li><a href="http://www.ku.edu/kusites/index.shtml?W">W</a></li><li><a href="http://www.ku.edu/kusites/index.shtml?X">X</a></li><li><a href="http://www.ku.edu/kusites/index.shtml?Y">Y</a></li><li><a href="http://www.ku.edu/kusites/index.shtml?Z">Z</a></li></ul>     
+						</div>
+					</div>
+				</div>
+				<div class="span-24 last" id="topnav"></div>
+			</div>
+			<div id="printheader">
+				<img id="myprintlogo" class="png" src="http://webmedia.ku.edu/images/logos/kulogo.png" alt="The University of Kansas" />
+			</div>
+			<div id="content" class="container" >
+<!--#################### Title Header ######################-->
+				<div id="swoop" class="span-24 last">
+					<div id="engr_swoop_top">
+						<a href="/"><h1 class="engr_img_replace-2" title="Electrical Engineering and Computer Science"><span><img src="/img/headers/major/circuit_header.jpg" /></span></h1></a>
+					</div>
+				</div>
+				<div style="clear:both"></div>
+				<div class="container" style="background: url(/img/menus/left_menu/background.jpg) no-repeat;">
+									<div class="span-24 last" id="plugins">
+					<span class="heading first">FOR &raquo;&nbsp;</span>
+					<ul>
+						<li><a class="plugin-icon" href="/prospective_students">Prospective Students</a></li>
+						<li><a class="plugin-icon" href="/current_students">Current Students</a></li>
+						<li class="selected"><a class="plugin-icon" href="/faculty">Faculty</a></li>
+						<li><a class="plugin-icon" href="/alumni">Alumni</a></li>
+					</ul>
+					<span class="heading">EXPLORE &raquo;&nbsp;</span>
+					<ul>
+						<li><a class="plugin-icon" href="/people">Faculty &amp; Staff</a></li>
+						<li><a class="plugin-icon" href="/research">Research</a></li>
+						<li><a class="plugin-icon" href="/calendar">Calendar</a></li>
+						<li><a class="plugin-icon" href="/help">Tech Help</a></li>
+					</ul>
+				</div>
+					<div class="container">
+						<div class="span-24 last" style="padding-top:5px">
+	<h1>Facilities</h1>
+</div>
+
+			<div class="span-5">
+                                <ul class="side-menu">
+
+                                        <li>
+						<a href="/faculty/documents_forms">Documents & Forms</a>
+					</li>
+
+                                        <li>
+						<a href="/faculty/courses">EECS Courses</a>
+					</li>
+                                        <li class="selected">
+						<a href="/faculty/facilities">Facilities</a>
+                                                <ul class="sub-menu">
+		                                        <li>
+								<a href="/faculty/facilities/labs">Labs</a>
+							</li>
+		                                        <li>
+								<a href="/faculty/facilities/eaton_hall">Eaton Hall Map</a>
+							</li>
+                                                </ul>
+                                        </li>
+                                </ul>
+                        </div>
+<div class="span-19 last enable-jquery-ui">
+	<div class="span-10">
+		<h2>EECS Facilities</h2>
+		<p>
+			The Department of Electrical Engineering and Computer Science maintains an advanced collection of a laboratory resources for students. These ever expanding laboratories are funded by private donations, student engineering fees, and department funds. 
+		</p>
+		<h2>About Eaton Hall</h2>
+		<p>Eaton Hall houses the dean's office suite; the <a href="/" title="Visit the Department of Electrical Engineering and Computer Science Website">Department of Electrical Engineering and Computer Science</a>; the <a href="http://www.careerservices.ku.edu/" title="Visit the Engineering Career Services Center Website">Engineering Career Services Center</a>; classrooms; <a href="/maps/eaton_hall/labs" title="Visit the Eaton Hall Labs Page">hardware labs and computer labs</a>; an atrium and computing commons; <a href="/people" title="View Faculty &amp; Staff">faculty and graduate teaching assistant offices</a>; and the multimedia Spahr Engineering Classroom, which seats 250.</p>		
+		<h2>Address</h2>
+		<p>
+			<b>Eaton Hall</b><br />
+			1520 W 15th St<br />
+			Lawrence, KS 66045-7605<br />
+		</p>
+		<h2>Additional Information</h2>
+		<ul>
+			<li><a href="http://www.ku.edu/visit/maps.shtml" title="Visit KU's Official Maps &amp; Directions Page">KU's Official Maps &amp; Directions</a></li>
+			<li><a href="http://www.kuonwheels.ku.edu/" title="KU on Wheels: Bus Routes">KU on Wheels: Bus Routes</a></li>
+			<li><a href="http://lawrenceks.org/pds/tr-bike" title="City of Lawrence Bicycle Information">City of Lawrence Bicycle Information</a></li>
+			<li><a href="http://www.parking.ku.edu/visit.shtml" title="View Visitor Parking Information">KU Visitor Parking Information</a></li>
+		</ul>
+	</div>
+	<div class="span-9 last">
+		<h2>EECS Facilities Map</h2>
+		<p>
+			Use the <a href="/faculty/facilities/map" title="Click here to view the EECS Facilities Map">EECS Facilities Map</a> to discover the EECS Facilities across campus.
+		</p>
+		<div class="EECSGoogleMapCanvas">
+			<noscript>
+				<img alt="EECS Google Map Preview" src="http://maps.google.com/maps/api/staticmap?center=38.95665134025343,-95.25643137168885&zoom=15&size=330x157&maptype=roadmap&sensor=false" />
+			</noscript>
+		</div>
+		<hr />
+		<h2>Eaton Hall Map</h2>
+		<p>
+			The <a href="/faculty/facilities/eaton_hall" title="Click here to view the Eaton Hall Map">Eaton Hall Map</a> allows you to visually navigate Eaton Hall.
+		</p>
+		<div class="floorMap">
+			Sorry, your Internet Browser does not support the technologies implemented for this feature. To use this feature, please view this web page from within one of the following recommended Internet Browsers: Mozilla Firefox, Google Chrome, Opera, or Safari.
+		</div>
+	</div>
+</div>
+					</div>
+				</div>
+			</div>
+			<br clear="all" />
+			<div id="footer">
+				<div id="concave"  class="container">
+					<div class="container" id="myfooter">
+						<div id="footercontact" class="span-10">
+							<div style="padding-bottom: 3px;">
+								<a href="/contact_us" class="ku_grey_u_link">Contact Us</a><br />
+							</div>
+							<address>
+								Department of Electrical Engineering & Computer Science<br />
+								1520 West 15th Street<br />
+								2001 Eaton Hall<br />
+								University of Kansas<br />
+								Lawrence, KS 66045-7621<br />
+								(785) 864-4620 <br />
+							</address>
+						</div>
+						<div  id="footerjayhawk" class="span-4">
+							<a href="#top"><img src="http://webmedia.ku.edu/images/template2009/uparrow.gif" border="0" alt="Go to the top of the page" /> top</a>
+						</div>
+					</div>
+				</div>
+				<div id="breadcrumbarea">
+					<div id="breadcrumb"  class="container">
+						<ul>
+							<li><a href="http://www.engr.ku.edu/">School of Engineering</a></li>
+							<li><a href="/">EECS Home</a></li>
+						</ul>
+					</div>
+					<div id="engr-footer" class="container">
+
+	<div class="container">
+		<br />
+		<div class="span-3 engr-footer-div">
+			<h3><a href="/">EECS Resources</a></h3>
+			<ul>
+				<li><a href="/news">News</a></li>
+				<li><a href="/publications">Publications</a></li>
+				<li><a href="/facilities">Facilities</a></li>
+				<li><a href="https://mail.ku.edu/">Webmail</a></li>
+				<li><a href="/alumni">Alumni</a></li>
+			</ul>
+		</div>
+		<div class="span-3 engr-footer-div">
+			<h3><a href="/prospective_students">Prospective Students</a></h3>
+			<ul>
+				<li>
+					<a href="/prospective_students/disciplines">Disciplines</a>
+				</li>
+				<li>
+					<a href="/prospective_students/undergraduate">Undergraduate Programs</a>
+				</li>
+				<li>
+					<a href="/prospective_students/graduate">Graduate Programs</a>
+				</li>
+				<li>
+					<a href="/prospective_students/facilities">Facilities</a>
+				</li>
+			</ul>
+		</div>
+		<div class="span-3 engr-footer-div">
+			<h3><a href="/current_students">Current Students</a></h3>
+			<ul>
+				<li>
+					<a href="/current_students/new">New Students</a>
+				</li>
+				<li>
+					<a href="/current_students/undergraduate">Undergraduate Students</a>
+				</li>
+				<li>
+					<a href="/current_students/graduate">Graduate Students</a>
+				</li>
+				<li>
+					<a href="/current_students/courses">EECS Courses</a>
+				</li>
+				<li>
+					<a href="/current_students/facilities">Facilities</a>
+				</li>
+			</ul>
+		</div>
+		<div class="span-3 engr-footer-div">
+			<h3><a href="/faculty">Faculty</a></h3>
+			<ul>
+				<li>
+					<a href="/faculty/documents_forms">Documents &amp; Forms</a>
+				</li>
+				<li>
+					<a href="/faculty/courses">EECS Courses</a>
+				</li>
+				<li>
+					<a href="/faculty/facilities">Facilities</a>
+				</li>
+			</ul>
+		</div>
+		<div class="span-3 engr-footer-div">
+			<h3><a href="/people">Faculty &amp; Staff</a></h3>
+			<ul>
+				<li>
+					<a href="/people/faculty">Faculty</a>
+				</li>
+				<li>
+					<a href="/people/chairpersons">Chairpersons</a>
+				</li>
+				<li>
+					<a href="/people/administrative_staff">Administrative Staff</a>
+				</li>
+				<li>
+					<a href="/people/technical_staff">Technical Staff</a>
+				</li>
+			</ul>
+		</div>
+		<div class="span-3 engr-footer-div">
+			<h3><a href="/research">Research</a></h3>
+			<ul>
+				<li>
+					<a href="/research/focus_areas">Focus Areas</a>
+				</li>
+				<li>
+					<a href="/research/centers">Reseach Centers</a>
+				</li>
+				<li>
+					<a href="/research/defense_notices">Defense Notices</a>
+				</li>
+			</ul>
+		</div>
+		<div class="span-3 last">
+			<h3><a href="/help">Tech Help</a></h3>
+			<ul>
+				<li>
+					<a href="/help/general">General Help Request</a>
+				</li>
+				<li>
+					<a href="/help/instructor">Instructor Help Request</a>
+				</li>
+				<li>
+					<a href="/help/status">Help Request Status</a>
+				</li>
+				<li>
+					<a href="http://wiki.eecs.ku.edu/">EECS Wiki</a>
+				</li>
+			</ul>
+		</div>
+	</div>
+
+</div>
+				</div>
+				<div id="bottomarea">
+					<div id="bottom"  class="container">
+						<ul class="links">
+							<li><a href="http://www.ku.edu">KU Home</a></li>
+							<li><a href="http://www.ku.edu/about/">About KU</a></li>
+							<li><a href="http://www.ku.edu/admissions/">Admissions</a> </li>
+							<li><a href="http://www.ku.edu/about/administration/">Administration</a></li>
+							<li><a href="http://www.ku.edu/academics/">Academics</a></li>
+							<li><a href="http://www.ku.edu/research/">Research</a> </li>
+							<li><a href="http://www.technology.ku.edu/">Technology</a></li>
+							<li><a href="http://www.ku.edu/libraries/">Libraries</a> </li>
+							<li><a href="http://www.ku.edu/museums/">Museum &amp; Arts</a></li>
+							<li><a href="http://www.news.ku.edu/">News</a> </li>
+							<li><a href="http://www.calendar.ku.edu/">Calendar</a></li>
+						</ul>
+						<ul class="links">
+							<li> <a href="http://kuathletics.collegesports.com/">Athletics</a> </li>
+							<li><a href="http://www.kuendowment.org/">Give to KU</a></li>
+							<li><a href="http://www.kualumni.org/">Alumni</a></li>
+							<li><a href="http://www.ku.edu/students/">Students</a> </li>
+							<li><a href="http://www.ku.edu/parents/">Parents</a> </li>
+							<li><a href="http://www.ku.edu/facultystaff/">Faculty &amp; Staff</a></li>
+							<li><a href="http://www.ku.edu/employment/">Jobs</a> </li>
+							<li><a href="https://sa.ku.edu/">Enroll &amp; Pay</a></li>
+							<li><a href="http://www.ku.edu/media/">Media</a> </li>          
+							<li><a href="http://www.ku.edu/visit/maps.shtml">Maps</a> </li>
+							<li><a href="http://www.ku.edu/contact/">Contact KU</a></li>
+						</ul>
+					</div>
+				</div>
+			 </div>
+		</div>
+	</div>
+  <!-- =============================== Google Analytics =============================== -->
+        <script type="text/javascript">
+            var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+            document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+        </script>
+        <script type="text/javascript">
+            try {
+            var pageTracker = _gat._getTracker("UA-9337339-1");
+            pageTracker._trackPageview();
+            } catch(err) {}
+        </script>
+        <!-- =============================== Google Analytics =============================== -->
+</body>
+</html>

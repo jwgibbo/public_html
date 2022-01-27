@@ -1,0 +1,243 @@
+Arg count: 2
+Node count: 10
+
+Filling original array with 10 values.
+Adding 641 to original tree
+Adding 715 to original tree
+Adding 474 to original tree
+Adding 366 to original tree
+Adding 790 to original tree
+Adding 519 to original tree
+Adding 594 to original tree
+Adding 293 to original tree
+Adding 382 to original tree
+Adding 762 to original tree
+
+Input a selection
+1) Add more values to original tree
+2) Copy the original tree
+3) Delete the original tree (one time only)
+4) Print original tree
+5) Print copy
+6) Search original tree
+7) Search copy
+8) Exit
+Your choice: 
+You chose: 4
+print order options:
+	0 - pre-order
+	1 - in-order
+	2 - post-order
+Choice: You chose: 1
+293 366 382 474 519 594 641 715 762 790 
+
+Input a selection
+1) Add more values to original tree
+2) Copy the original tree
+3) Delete the original tree (one time only)
+4) Print original tree
+5) Print copy
+6) Search original tree
+7) Search copy
+8) Exit
+Your choice: 
+You chose: 5
+This tree doesn't exist. Cannot print.
+
+Input a selection
+1) Add more values to original tree
+2) Copy the original tree
+3) Delete the original tree (one time only)
+4) Print original tree
+5) Print copy
+6) Search original tree
+7) Search copy
+8) Exit
+Your choice: 
+You chose: 1
+Input a value to add to the original: Adding 2 to the original tree.
+
+Input a selection
+1) Add more values to original tree
+2) Copy the original tree
+3) Delete the original tree (one time only)
+4) Print original tree
+5) Print copy
+6) Search original tree
+7) Search copy
+8) Exit
+Your choice: 
+You chose: 1
+Input a value to add to the original: Adding 50 to the original tree.
+
+Input a selection
+1) Add more values to original tree
+2) Copy the original tree
+3) Delete the original tree (one time only)
+4) Print original tree
+5) Print copy
+6) Search original tree
+7) Search copy
+8) Exit
+Your choice: 
+You chose: 1
+Input a value to add to the original: Adding 999 to the original tree.
+
+Input a selection
+1) Add more values to original tree
+2) Copy the original tree
+3) Delete the original tree (one time only)
+4) Print original tree
+5) Print copy
+6) Search original tree
+7) Search copy
+8) Exit
+Your choice: 
+You chose: 4
+print order options:
+	0 - pre-order
+	1 - in-order
+	2 - post-order
+Choice: You chose: 1
+2 50 293 366 382 474 519 594 641 715 762 790 999 
+
+Input a selection
+1) Add more values to original tree
+2) Copy the original tree
+3) Delete the original tree (one time only)
+4) Print original tree
+5) Print copy
+6) Search original tree
+7) Search copy
+8) Exit
+Your choice: 
+You chose: 5
+This tree doesn't exist. Cannot print.
+
+Input a selection
+1) Add more values to original tree
+2) Copy the original tree
+3) Delete the original tree (one time only)
+4) Print original tree
+5) Print copy
+6) Search original tree
+7) Search copy
+8) Exit
+Your choice: 
+You chose: 1
+Input a value to add to the original: Adding 6 to the original tree.
+
+Input a selection
+1) Add more values to original tree
+2) Copy the original tree
+3) Delete the original tree (one time only)
+4) Print original tree
+5) Print copy
+6) Search original tree
+7) Search copy
+8) Exit
+Your choice: 
+You chose: 999
+
+Input a selection
+1) Add more values to original tree
+2) Copy the original tree
+3) Delete the original tree (one time only)
+4) Print original tree
+5) Print copy
+6) Search original tree
+7) Search copy
+8) Exit
+Your choice: 
+You chose: 7
+This tree doesn't exist. Cannot search.
+
+Input a selection
+1) Add more values to original tree
+2) Copy the original tree
+3) Delete the original tree (one time only)
+4) Print original tree
+5) Print copy
+6) Search original tree
+7) Search copy
+8) Exit
+Your choice: 
+You chose: 999
+
+Input a selection
+1) Add more values to original tree
+2) Copy the original tree
+3) Delete the original tree (one time only)
+4) Print original tree
+5) Print copy
+6) Search original tree
+7) Search copy
+8) Exit
+Your choice: 
+You chose: 3
+Original Tree deleted.
+
+Input a selection
+1) Add more values to original tree
+2) Copy the original tree
+3) Delete the original tree (one time only)
+4) Print original tree
+5) Print copy
+6) Search original tree
+7) Search copy
+8) Exit
+Your choice: 
+You chose: 4
+This tree doesn't exist. Cannot print.
+
+Input a selection
+1) Add more values to original tree
+2) Copy the original tree
+3) Delete the original tree (one time only)
+4) Print original tree
+5) Print copy
+6) Search original tree
+7) Search copy
+8) Exit
+Your choice: 
+You chose: 1
+Original doesn't exits.
+
+Input a selection
+1) Add more values to original tree
+2) Copy the original tree
+3) Delete the original tree (one time only)
+4) Print original tree
+5) Print copy
+6) Search original tree
+7) Search copy
+8) Exit
+Your choice: 
+You chose: 5
+This tree doesn't exist. Cannot print.
+
+Input a selection
+1) Add more values to original tree
+2) Copy the original tree
+3) Delete the original tree (one time only)
+4) Print original tree
+5) Print copy
+6) Search original tree
+7) Search copy
+8) Exit
+Your choice: 
+You chose: 1
+Original doesn't exits.
+
+Input a selection
+1) Add more values to original tree
+2) Copy the original tree
+3) Delete the original tree (one time only)
+4) Print original tree
+5) Print copy
+6) Search original tree
+7) Search copy
+8) Exit
+Your choice: 
+You chose: 8
+Exiting...
