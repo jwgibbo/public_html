@@ -23,15 +23,12 @@ class BST:
         #check for an empty BST
         if self._root == None:
             self._root = BNode(entry)
-        elif self._root.entry < entry:
-            #more in this step
-            self._rec_add(entry, self._root.right)
-        elif self._root.entry > entry:
-            #more in this step
-            self._rec_add(entry, self._root.left)
         else:
-            raise RuntimeError('No Duplicates Allowed')
+            self._rec_add(entry, self._root)
 
     def _rec_add(self, entry, cur_node):
-        #define entire method
+        #check if entry is a duplicate; raise exception
+        #compare, decide to go left or right
+        #before recursing, check to see if the left or right
+        #child is None, in which case just add it
             
