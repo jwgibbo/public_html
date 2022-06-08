@@ -1,0 +1,5 @@
+print("Hello, World!")
+print('Good to see you again!')
+print(7*45)
+print("7*45")
+print('He said "Have a great day"')
