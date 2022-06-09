@@ -1,0 +1,7 @@
+print("Name: John Gibbons")
+print("\tHobbies: Teaching, parenting, missing my youth")
+print('He said, "I love programming!"')
+print("I can't wait to learn more python!")
+print('He said, "I can\'t dance"')
+print("Monday:\nEECS 168")
+print("5*21= ", 5*21)
