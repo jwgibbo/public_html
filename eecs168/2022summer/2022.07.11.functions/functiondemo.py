@@ -5,7 +5,18 @@ def one_more(num):
     ans = num + 1
     return ans
 
+#Goal: Define a function that takes
+#       two numbers and returns the
+#       larger value
+def larger(num1, num2):
+    if num1 > num2:
+        return num1
+    else:
+        return num2
 
 
-x = one_more(5) #function call
-print(x)
+ans = larger(2**8, 8**2)
+print(ans)
+
+ans = larger(True, 'catfood') #ERROR
+print(ans)
