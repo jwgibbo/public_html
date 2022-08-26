@@ -1,0 +1,6 @@
+print("I don't like cheese")
+print('He said, "Go for it!"')
+print('They gasped and thought "He don\'t like cheese"')
+print(8+4-6+2)
+print("8+4-6+2")
+print("5+3=", 5+3)
