@@ -9,8 +9,10 @@ class LinkedList:
         self._length = 0
 
     def insert(self, index, entry):
-        #DON'T DO THIS YET
-        #ASSUME IT WORKS
+        #Validate index
+        #Check for index zero
+        #check for inserting in middle
+        #check for inserting at end
 
     def get_entry(self, index):
         #Define: validate index
