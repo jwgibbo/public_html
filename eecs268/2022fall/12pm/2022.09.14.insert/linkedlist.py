@@ -23,7 +23,9 @@ class LinkedList:
         #if valid return value at
         #index
 
+    def length(self):
+        #returns the length
+
     def _get_node(self, index):
         #if index valid, return
         #node at the index
-
