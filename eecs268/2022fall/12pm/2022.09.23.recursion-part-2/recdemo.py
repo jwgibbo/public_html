@@ -4,6 +4,7 @@ def rec_func(i):
     else:
         rec_func(i+1) #recursive call
         print(i)
+        
 
 
 #Goal: Write a recursive factorial
@@ -15,8 +16,8 @@ def rec_fact(num):
 
 
 def main():
-    #rec_func(0) #initial call
+    rec_func(0) #initial call
 
-    print(rec_fact(10))
+    #print(rec_fact(10))
 
 main()
