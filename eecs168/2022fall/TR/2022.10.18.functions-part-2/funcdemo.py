@@ -1,3 +1,4 @@
+
 #Goal: Define a function that takes
 #       a number and returns one more
 #       than that number
@@ -15,18 +16,22 @@ def doubler_plus_one(num):
     return ans
 
 def is_odd(num):
-    return num % 2 == 1
-
-
+    if num % 2 == 1:
+        return True
+    else:
+        return False
 
 def main():
-    result = add_one(9) #call
-    print(result)
-    result = add_one(99)
-    print(result)
-    result = add_one(2)
-    print(result)
-    result = doubler_plus_one(5)
+
+    value = 5
+    if is_odd(value) == True:
+        print("It's odd!")
+    else:
+        print("It's not odd!")
+
+    print(is_odd(value))
+
+    result = doubler(2) + doubler(3)
     print(result)
 
 main()
