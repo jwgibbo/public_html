@@ -20,7 +20,9 @@ def main():
     print(my_tri.area())
     print(my_tri2.area())
 
-    print(count('a'))
+    #Error because count is called
+    #throught a string
+    #print(count('a'))
 
 
 main()
