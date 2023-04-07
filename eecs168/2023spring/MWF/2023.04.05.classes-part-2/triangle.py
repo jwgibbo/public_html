@@ -2,6 +2,7 @@
 
 class Triangle:
     def __init__(self):
+        print('init called')
         #initialize base and height
         self.base = 0.0
         self.height = 0.0
