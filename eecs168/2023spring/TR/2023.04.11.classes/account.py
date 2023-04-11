@@ -12,3 +12,7 @@ class Account:
             #We'll learn a better
             #reaction
 
+    def __lt__(self, other):
+        return self._balance < other._balance
+
+        
