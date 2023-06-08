@@ -1,0 +1,5 @@
+print("I can't dance.")
+print('You shouldn\'t say \"I can\'t do it\"')
+print("Monday\nEECS 168")
+print("Mon\tTue\tWed\tThur\tFri")
+print("You can make tab by typing \\t")
