@@ -1,0 +1,24 @@
+def my_div(num1, num2):
+    if num2 != 0:
+        ans = num1 / num2
+        return ans
+    else:
+        raise ZeroDivisionError('num2 cannot be zero')
+
+def middle_func(n1, n2):
+    return my_div(n1, n2)
+
+def main():
+    result = -1
+
+    try:
+        result = middle_func(10, 0)
+        print(result)
+    except ZeroDivisionError as my_exception:
+        print(type(my_exception))
+        print(my_exception)
+
+    print('result =', result)
+    print('Program ending...')    
+
+main()
