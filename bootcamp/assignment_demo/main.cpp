@@ -28,7 +28,6 @@ int main()
 	//object
 	CoolString myCS(4);
 	CoolString* csPtr = new CoolString(4);
-	std::vector<CoolString> csVec;
 	
 	for(int i=0; i<myCS.length(); i++)
 	{
