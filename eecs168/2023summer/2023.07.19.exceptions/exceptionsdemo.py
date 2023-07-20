@@ -14,7 +14,7 @@ def main():
     try:
         result = my_div(10, 0)
         print(result+2)
-    except:
+    except ZeroDivisionError:
         print('Math broke!')
 
     print(f'result={result}')
