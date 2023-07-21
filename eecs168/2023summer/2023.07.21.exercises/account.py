@@ -13,3 +13,7 @@ class Account:
             #we'll learn a strong reaction
             #for now, we'll just pass
             pass
+        
+    def withdraw(self, amount):
+        #define
+        
