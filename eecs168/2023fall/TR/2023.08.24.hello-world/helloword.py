@@ -1,0 +1,8 @@
+print('Hello, World!')
+print(55)
+print(9+3*2)
+print('9+3*2')
+print("I don't know")
+print('She said, "I don\'t like movies."')
+print('2+2 =',2+2)
+print('Tue\tThur\nWelcome\tHello World')
