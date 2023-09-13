@@ -30,5 +30,5 @@ class LinkedList:
 
             #insert the node
             previous.next = new_node
-            new_node = target
+            new_node.next = target
             self._length += 1
