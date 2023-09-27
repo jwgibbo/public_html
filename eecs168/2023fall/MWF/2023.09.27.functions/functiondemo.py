@@ -11,4 +11,5 @@ result = add_one(user_num)
 print(result)
 print(add_one(99))
 
-result = add_one()
+# ERROR
+# result = add_one()
