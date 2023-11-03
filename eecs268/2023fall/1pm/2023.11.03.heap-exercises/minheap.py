@@ -10,7 +10,7 @@ class MinHeap:
         self._heap.append(entry)
 
         #upheap
-        self._upheap(self, len(self._heap)-1)
+        self._upheap(len(self._heap)-1)
 
     def _upheap(self, index):
         pass
@@ -21,8 +21,8 @@ class MinHeap:
         #swap with the temp root
         #pop the old root
         #downheap temp
-        #boardwork for Friday
+        #return removed value
 
-    def _downheap(index):
+    def _downheap(self, index):
         pass
         #Code in the heap lab
