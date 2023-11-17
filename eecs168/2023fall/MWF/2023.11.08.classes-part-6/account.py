@@ -13,8 +13,7 @@ class Account:
         if amount > 0:
             self._balance += amount
         else:
-            #We'll learn how to react to
-            #invalid values
+            #We'll wait on this for now
             pass
 
     def withdraw(self, amount):
