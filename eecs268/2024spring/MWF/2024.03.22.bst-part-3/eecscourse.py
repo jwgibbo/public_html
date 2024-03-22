@@ -10,5 +10,15 @@ class EECSCourse:
     #other class methods
 
     def __lt__(self, other):
-        return self.course_number < other.course_number
-        #We'll add to this next time
+        if isinstance(other, int):
+            return self.course_number < other
+        else:
+            return self.course_number < other.course_number
+        
+    def __gt__(self, other):
+        return self.course_number > other.course_number
+        #Add the isinstance if-else
+
+    def __eq__(self, other):
+        return self.course_number == other.course_number
+        #Add the isinstance if-else
