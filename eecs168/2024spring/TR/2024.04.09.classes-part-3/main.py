@@ -9,7 +9,7 @@ def main():
     your_account.deposit(50)
     print(my_account.check_balance())
 
-    if my_account < your_account:
+    if my_account > your_account:
         print('haha I have more!')
 
 
