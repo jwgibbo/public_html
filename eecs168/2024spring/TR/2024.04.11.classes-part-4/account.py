@@ -7,7 +7,12 @@ class Account:
     def __repr__(self):
         output_str = f'Account({self._balance})'
         return output_str
-        
+    
+    def __str__(self):
+        output_str = 'Account with balance: '
+        output_str += str(self._balance)
+        return output_str
+    
     def deposit(self, amount):
         if amount > 0:
             self._balance += amount
@@ -37,10 +42,7 @@ class Account:
         else:
             return False
 
-    def __str__(self):
-        output_str = 'Account with balance: '
-        output_str += str(self._balance)
-        return output_str
+
 
 
 
