@@ -14,7 +14,7 @@ def main():
     print(f'Current choice = {random_choice}')
     try:
         fun_raiser(random_choice)
-    except ValueError as error:
+    except ValueError:
         print('The value was wrong')
         print(error)
     except IndexError as error:
