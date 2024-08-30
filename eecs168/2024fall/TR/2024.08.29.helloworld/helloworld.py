@@ -1,0 +1,6 @@
+print('Hello, World!')
+print("I can't believe it's so easy!")
+print(22/7)
+print("In October I'll turn", 40+1)
+print('He said, "The sun\'s mass is large"')
+print('Here is the escape character \\')

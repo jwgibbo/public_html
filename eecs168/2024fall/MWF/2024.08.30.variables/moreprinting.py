@@ -1,0 +1,5 @@
+print(12345)
+print(8*5+10/2)
+print('2**10 =', 2**10)
+print('text', 1235, 'more text', 789)
+print('\tFriday\n\tEECS 168')
