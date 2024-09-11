@@ -1,4 +1,4 @@
-num = 0
+num = 5
 
 if num > 0:
     print('It is positive!')
