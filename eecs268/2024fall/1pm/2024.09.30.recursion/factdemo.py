@@ -12,6 +12,6 @@ def rec_fact(num):
         return num*rec_fact(num-1)
 
 def main():
-    answer = rec_fact(2000)
+    answer = rec_fact(2)
     print(answer)
 main()
