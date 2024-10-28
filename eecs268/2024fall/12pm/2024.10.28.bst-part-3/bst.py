@@ -1,4 +1,4 @@
-#bst.py
+#BST.py
 
 from binarynode import BinaryNode
 
@@ -7,18 +7,14 @@ class BST:
         self._root = None
 
     def add(self, item):
-        #self._rec_add(item, self._root)
-        #FIX this method to check if the
-        #entire tree is empty before
-        #recusing
+        #FIX this definition to change if
+        #the entire tree is empty
 
     def _rec_add(self, item, cur_node):
-        #if cur_node is None:
-        #    cur_node = BinaryNode(item)
-        #Fix this
+        #FIX this definition
 
     def search(self, key):
         return self._rec_search(key, self._root)
 
     def _rec_search(self, key, cur_node):
-        #define this
+        #define this 
