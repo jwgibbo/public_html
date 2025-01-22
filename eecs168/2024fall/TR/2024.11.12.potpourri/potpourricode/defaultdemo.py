@@ -1,14 +1,12 @@
-def arg_func(a, b, c):
+def default_func(a=0, b=0, c=0):
     print(f'a={a}')
     print(f'b={b}')
     print(f'c={c}')
-    
-def main():
-    arg_func(5, 10, 15)
-    arg_func(a=5, b=10, c=15)
-    arg_func(c=15, a=5, b=10)
-    arg_func(5, 10, c=15)
-    #arg_func(c=15, 5, 10) ERROR
 
+def main():
+    default_func(5, 10, 15)
+    default_func(5, 10)
+    default_func(5)
+    default_func()
 
 main()
