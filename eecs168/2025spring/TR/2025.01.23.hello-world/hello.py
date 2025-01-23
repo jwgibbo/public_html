@@ -1,0 +1,8 @@
+print('Hello, World!')
+print("Nice to meet you!")
+print("I can't wait to program!")
+print(55)
+print((5+7)*(2**3))
+print("50*2=", 50*2)
+print('TR\nEECS 168')
+print('Here is a backslash \\')
