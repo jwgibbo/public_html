@@ -1,0 +1,5 @@
+print('Hello, World!')
+print('Nice to meet you!')
+print("See you at the movies!")
+print("I can't wait to hang!")
+print('5+3 =', 5+3)
