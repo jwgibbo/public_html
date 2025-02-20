@@ -4,5 +4,5 @@ for letter in word:
 
 print('--------')
 
-for number in range(2, 10, 3):
+for number in range(3, 100, 10):
     print(number)
