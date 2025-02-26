@@ -1,7 +1,7 @@
 def rec_func(num):
-    if num <= 3: 
-        rec_func(num+1)
+    if num <= 10:
         print(num)
+        rec_func(num+1)  
     else:
         print('recursion ending...')
 
