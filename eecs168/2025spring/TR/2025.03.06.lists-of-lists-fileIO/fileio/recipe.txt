@@ -1,0 +1,8 @@
+chicken
+tomatoes
+onions
+eggs
+cucumber
+banana
+sauerkraut
+sugar
