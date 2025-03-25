@@ -1,6 +1,6 @@
-recipe_file = open('recipe.txt', 'r')
+recipe_file = open('catfood.txt', 'r')
 
 for line in recipe_file:
-    print(line.strip())
+    print(len(line.strip()))
 
 recipe_file.close()
