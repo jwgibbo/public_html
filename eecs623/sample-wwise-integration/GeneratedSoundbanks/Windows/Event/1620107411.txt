@@ -1,3 +1,0 @@
-Event	ID	Name			Wwise Object Path	Notes
-	1620107411	Fire_PoisonGem_Player			\Default Work Unit\Main\Magic\Fire_PoisonGem_Player	
-

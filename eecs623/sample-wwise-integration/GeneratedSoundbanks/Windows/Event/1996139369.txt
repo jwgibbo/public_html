@@ -1,7 +1,0 @@
-Event	ID	Name			Wwise Object Path	Notes
-	1996139369	Pain			\Default Work Unit\Main\Pain\Pain	
-
-Effect plug-ins	ID	Name	Type				Notes
-	652610570	Default (Custom)	Wwise Parametric EQ			
-	881704081	Default (Custom)	Wwise Parametric EQ			
-

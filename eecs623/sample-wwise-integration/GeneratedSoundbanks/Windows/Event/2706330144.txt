@@ -1,6 +1,0 @@
-Event	ID	Name			Wwise Object Path	Notes
-	2706330144	Hit_FireGem_Player			\Default Work Unit\Main\Magic\Hit_FireGem_Player	
-
-Effect plug-ins	ID	Name	Type				Notes
-	479948303	Default (Custom)	Wwise Parametric EQ			
-

@@ -1,3 +1,0 @@
-Event	ID	Name			Wwise Object Path	Notes
-	1698673413	Pain_Rat			\Default Work Unit\Main\Pain\Pain_Rat	
-

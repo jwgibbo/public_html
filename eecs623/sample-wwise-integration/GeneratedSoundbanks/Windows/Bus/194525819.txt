@@ -1,6 +1,0 @@
-Auxiliary Bus	ID	Name			Wwise Object Path	Notes
-	194525819	env_corridor			\Default Work Unit\Master Audio Bus\Environmental\Environments\env_corridor	
-
-Effect plug-ins	ID	Name	Type				Notes
-	194525819	env_corridor	Wwise RoomVerb			
-

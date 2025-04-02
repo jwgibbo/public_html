@@ -1,6 +1,0 @@
-Event	ID	Name			Wwise Object Path	Notes
-	4214542295	End_Fireball_Monster			\Default Work Unit\Main\Magic\End_Fireball_Monster	
-
-Source plug-ins	ID	Name	Type		Wwise Object Path	Notes
-	739702003	Wwise Silence	Wwise Silence		\Actor-Mixer Hierarchy\Default Work Unit\Main\Magic\Silence\Wwise Silence	
-

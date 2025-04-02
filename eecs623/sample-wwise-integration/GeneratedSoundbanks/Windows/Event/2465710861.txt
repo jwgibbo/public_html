@@ -1,3 +1,0 @@
-Event	ID	Name			Wwise Object Path	Notes
-	2465710861	Pain_Ogre			\Default Work Unit\Main\Pain\Pain_Ogre	
-

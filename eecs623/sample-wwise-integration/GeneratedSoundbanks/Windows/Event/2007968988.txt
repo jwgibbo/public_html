@@ -1,3 +1,0 @@
-Event	ID	Name			Wwise Object Path	Notes
-	2007968988	End_Iceball_Monster			\Default Work Unit\Main\Magic\End_Iceball_Monster	
-

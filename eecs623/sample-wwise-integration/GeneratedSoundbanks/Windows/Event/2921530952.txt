@@ -1,3 +1,0 @@
-Event	ID	Name			Wwise Object Path	Notes
-	2921530952	Fire_LightningGem_Monster			\Default Work Unit\Main\Magic\Fire_LightningGem_Monster	
-

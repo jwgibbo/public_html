@@ -1,3 +1,0 @@
-Event	ID	Name			Wwise Object Path	Notes
-	856071815	Grunt_Bauul			\Default Work Unit\Main\Grunt\Grunt_Bauul	Posted when monster sees player and wakes up from sleeping state
-

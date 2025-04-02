@@ -1,3 +1,0 @@
-Event	ID	Name			Wwise Object Path	Notes
-	1815461482	Story_End			\Music\Story_End	
-

@@ -1,6 +1,0 @@
-Auxiliary Bus	ID	Name			Wwise Object Path	Notes
-	3877888880	env_large_room			\Default Work Unit\Master Audio Bus\Environmental\Environments\env_large_room	
-
-Effect plug-ins	ID	Name	Type				Notes
-	3877888880	env_large_room	Wwise RoomVerb			
-

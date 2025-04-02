@@ -1,6 +1,0 @@
-Event	ID	Name			Wwise Object Path	Notes
-	2390793602	Fire_IceGem_Player			\Default Work Unit\Main\Magic\Fire_IceGem_Player	
-
-Source plug-ins	ID	Name	Type		Wwise Object Path	Notes
-	593025620	Wwise Silence	Wwise Silence		\Actor-Mixer Hierarchy\Default Work Unit\Main\Magic\IceGem Magic\Gem Drop\Silence\Wwise Silence	
-
