@@ -1,0 +1,6 @@
+Event	ID	Name			Wwise Object Path	Notes
+	2484024762	Fire_Staff_Player			\Default Work Unit\Main\Magic\Fire_Staff_Player	
+
+Effect plug-ins	ID	Name	Type				Notes
+	309761280	Default (Custom)	Wwise Parametric EQ			
+

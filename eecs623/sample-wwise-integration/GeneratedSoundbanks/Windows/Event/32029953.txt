@@ -1,0 +1,3 @@
+Event	ID	Name			Wwise Object Path	Notes
+	32029953	Pain_Goblin			\Default Work Unit\Main\Pain\Pain_Goblin	
+

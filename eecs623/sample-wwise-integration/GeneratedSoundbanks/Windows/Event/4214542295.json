@@ -1,0 +1,52 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "4214542295",
+    "Type": "Event",
+    "GUID": "{168D9E44-E66F-4509-A046-FE1AC513959A}",
+    "Language": "SFX",
+    "Hash": "{36340EF9-1C46-8170-92C8-5AC25F5DA76E}",
+    "ObjectPath": "End_Fireball_Monster",
+    "ShortName": "End_Fireball_Monster",
+    "Path": "Event/4214542295.bnk",
+    "Plugins": {
+     "Custom": [
+      {
+       "Id": "739702003",
+       "Name": "Wwise Silence",
+       "ObjectPath": "\\Actor-Mixer Hierarchy\\Default Work Unit\\Main\\Magic\\Silence\\Wwise Silence",
+       "GUID": "{A213AAA8-622A-4D53-874E-9CB8E101F1CB}",
+       "Color": "2",
+       "LibName": "Wwise Silence",
+       "LibId": "6619138"
+      }
+     ]
+    },
+    "Events": [
+     {
+      "Id": "4214542295",
+      "Name": "End_Fireball_Monster",
+      "ObjectPath": "\\Events\\Default Work Unit\\Main\\Magic\\End_Fireball_Monster",
+      "GUID": "{168D9E44-E66F-4509-A046-FE1AC513959A}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.1",
+      "DurationMax": "0.1",
+      "PluginRefs": {
+       "Custom": [
+        {
+         "Id": "739702003"
+        }
+       ]
+      }
+     }
+    ]
+   }
+  ],
+  "FileHash": "{062428E4-EC22-C755-F863-27B5C2881947}"
+ }
+}

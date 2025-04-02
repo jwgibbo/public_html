@@ -1,0 +1,3 @@
+Event	ID	Name			Wwise Object Path	Notes
+	227445756	ItemHealth200			\Default Work Unit\Main\ItemHealth200	
+

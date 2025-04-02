@@ -1,0 +1,3 @@
+Event	ID	Name			Wwise Object Path	Notes
+	401958326	Grunt_Slith			\Default Work Unit\Main\Grunt\Grunt_Slith	Posted when monster sees player and wakes up from sleeping state
+

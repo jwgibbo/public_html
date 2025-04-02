@@ -1,0 +1,60 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "87064326",
+    "Type": "Event",
+    "GUID": "{0E8D2D60-06AB-4A3E-B690-1AF76B9C0CF8}",
+    "Language": "SFX",
+    "Hash": "{C434270C-020E-5198-7FED-83C4F68E94A5}",
+    "ObjectPath": "Pain_Rhino",
+    "ShortName": "Pain_Rhino",
+    "Path": "Event/87064326.bnk",
+    "Media": [
+     {
+      "Id": "162814894",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "painr_1.wav",
+      "Path": "Media/162814894.wem",
+      "CachePath": "EC/{EC160684-86CA-569C-77C5-FE601E5FA1D2}.wem"
+     },
+     {
+      "Id": "715743738",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "painr_2.wav",
+      "Path": "Media/715743738.wem",
+      "CachePath": "D6/{D69BBA24-0E6F-172F-B1C7-32D0F226DF3E}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "87064326",
+      "Name": "Pain_Rhino",
+      "ObjectPath": "\\Events\\Default Work Unit\\Main\\Pain\\Pain_Rhino",
+      "GUID": "{0E8D2D60-06AB-4A3E-B690-1AF76B9C0CF8}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.73923886",
+      "DurationMax": "1.0163436",
+      "MediaRefs": [
+       {
+        "Id": "162814894"
+       },
+       {
+        "Id": "715743738"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{BAA9266E-A028-0E8B-FF95-67B49D7AF6DB}"
+ }
+}

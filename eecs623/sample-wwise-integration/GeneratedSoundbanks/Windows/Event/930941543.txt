@@ -1,0 +1,3 @@
+Event	ID	Name			Wwise Object Path	Notes
+	930941543	Pain_Bauul			\Default Work Unit\Main\Pain\Pain_Bauul	
+

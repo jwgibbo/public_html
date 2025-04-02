@@ -1,0 +1,367 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "2981918260",
+    "Type": "User",
+    "GUID": "{7BE7667B-6105-49CA-8F5F-2AF3D6C97B86}",
+    "Language": "SFX",
+    "Hash": "{ABB75602-93EA-C00B-9055-4C09F857E927}",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\DCP_the_core",
+    "ShortName": "DCP_the_core",
+    "Path": "2981918260.bnk",
+    "Media": [
+     {
+      "Id": "55290557",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "enter10.wav",
+      "CachePath": "8E/{8E1C047E-6146-7688-CB7B-7CFE61213CD2}.wem"
+     },
+     {
+      "Id": "187024402",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "signal01.wav",
+      "CachePath": "AF/{AF273649-E567-9889-E2E7-047C5F02E997}.wem"
+     },
+     {
+      "Id": "209784911",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "enter12.wav",
+      "CachePath": "FD/{FDFC774B-3865-D480-A310-8E787618886A}.wem"
+     },
+     {
+      "Id": "245661189",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "enter01.wav",
+      "CachePath": "2F/{2FA99000-8231-0FFD-049E-E1359FA3E013}.wem"
+     },
+     {
+      "Id": "396065929",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "enter02.wav",
+      "CachePath": "CE/{CE0ECAD9-3EDD-7EE8-F422-6C00238BE7F3}.wem"
+     },
+     {
+      "Id": "405744097",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "enter07.wav",
+      "CachePath": "61/{61288DC7-2634-A8A1-68DE-5AEBFC8F2B80}.wem"
+     },
+     {
+      "Id": "504552545",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "enter04.wav",
+      "CachePath": "71/{719806F3-1F42-8685-649B-B373E344AE5E}.wem"
+     },
+     {
+      "Id": "579081663",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "enter03.wav",
+      "CachePath": "E1/{E1CB4460-2CEF-B773-2C28-2A2F6722B340}.wem"
+     },
+     {
+      "Id": "603800779",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "signal02.wav",
+      "CachePath": "A0/{A00FCECF-3982-5B08-384D-2D5DC9FECF65}.wem"
+     },
+     {
+      "Id": "651618676",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "enter11.wav",
+      "CachePath": "C8/{C8FB3F3B-B297-43B9-E9F4-120DCC0CEE7C}.wem"
+     },
+     {
+      "Id": "705228804",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "enter05.wav",
+      "CachePath": "83/{83ADC5B8-4904-90DD-C221-DDDD41EBF14B}.wem"
+     },
+     {
+      "Id": "819733394",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "enter09.wav",
+      "CachePath": "A7/{A7D00BF0-055A-591D-1707-FCFACCE57A88}.wem"
+     },
+     {
+      "Id": "882747087",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "enter06.wav",
+      "CachePath": "DF/{DFABA352-8AEE-36AB-E760-4E5A3E10DAE9}.wem"
+     },
+     {
+      "Id": "965577559",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "enter08.wav",
+      "CachePath": "DB/{DB46B9ED-B2EA-917E-76D0-78DCA7522550}.wem"
+     }
+    ],
+    "Plugins": {
+     "Custom": [
+      {
+       "Id": "564140752",
+       "Name": "Default (Custom)",
+       "ObjectPath": "\\Actor-Mixer Hierarchy\\Default Work Unit\\Maps\\Map Items\\Signal02\\[Effect Slot [0]: (Matrix Reverb)]\\Default (Custom)",
+       "GUID": "{752C00A5-6588-4D7B-8E3D-68BB354D6467}",
+       "LibName": "Wwise Matrix Reverb",
+       "LibId": "7536643"
+      },
+      {
+       "Id": "805262001",
+       "Name": "Default (Custom)",
+       "ObjectPath": "\\Actor-Mixer Hierarchy\\Default Work Unit\\Maps\\Map Items\\Signal01\\[Effect Slot [0]: (Matrix Reverb)]\\Default (Custom)",
+       "GUID": "{BF496B74-A6C4-4AAC-98DE-8864106E292F}",
+       "LibName": "Wwise Matrix Reverb",
+       "LibId": "7536643"
+      }
+     ]
+    },
+    "Events": [
+     {
+      "Id": "2245995848",
+      "Name": "DCP_Enter01",
+      "ObjectPath": "\\Events\\Default Work Unit\\Maps\\DCP_the_core\\DCP_Enter01",
+      "GUID": "{4BE43D2E-808A-4089-A6D6-1B0DF45E6DEE}",
+      "DurationType": "OneShot",
+      "DurationMin": "1.8",
+      "DurationMax": "1.8",
+      "MediaRefs": [
+       {
+        "Id": "245661189"
+       }
+      ]
+     },
+     {
+      "Id": "2245995851",
+      "Name": "DCP_Enter02",
+      "ObjectPath": "\\Events\\Default Work Unit\\Maps\\DCP_the_core\\DCP_Enter02",
+      "GUID": "{8B228F62-63E7-41EC-A12F-B2CA63329E4C}",
+      "DurationType": "OneShot",
+      "DurationMin": "2.581882",
+      "DurationMax": "2.581882",
+      "MediaRefs": [
+       {
+        "Id": "396065929"
+       }
+      ]
+     },
+     {
+      "Id": "2245995850",
+      "Name": "DCP_Enter03",
+      "ObjectPath": "\\Events\\Default Work Unit\\Maps\\DCP_the_core\\DCP_Enter03",
+      "GUID": "{81BB3CFC-2634-472A-A55C-31A8B6A56526}",
+      "DurationType": "OneShot",
+      "DurationMin": "2.031542",
+      "DurationMax": "2.031542",
+      "MediaRefs": [
+       {
+        "Id": "579081663"
+       }
+      ]
+     },
+     {
+      "Id": "2245995853",
+      "Name": "DCP_Enter04",
+      "ObjectPath": "\\Events\\Default Work Unit\\Maps\\DCP_the_core\\DCP_Enter04",
+      "GUID": "{0ADF2AAD-28F0-4CD5-B851-A65B0354EAAC}",
+      "DurationType": "OneShot",
+      "DurationMin": "2.979524",
+      "DurationMax": "2.979524",
+      "MediaRefs": [
+       {
+        "Id": "504552545"
+       }
+      ]
+     },
+     {
+      "Id": "2245995852",
+      "Name": "DCP_Enter05",
+      "ObjectPath": "\\Events\\Default Work Unit\\Maps\\DCP_the_core\\DCP_Enter05",
+      "GUID": "{34D2E524-5123-449C-B0E8-71EE4F4ED715}",
+      "DurationType": "OneShot",
+      "DurationMin": "3.05",
+      "DurationMax": "3.05",
+      "MediaRefs": [
+       {
+        "Id": "705228804"
+       }
+      ]
+     },
+     {
+      "Id": "2245995855",
+      "Name": "DCP_Enter06",
+      "ObjectPath": "\\Events\\Default Work Unit\\Maps\\DCP_the_core\\DCP_Enter06",
+      "GUID": "{D773AF18-0ACF-482D-A6A6-40B36AB6B6B8}",
+      "DurationType": "OneShot",
+      "DurationMin": "1.4724717",
+      "DurationMax": "1.4724717",
+      "MediaRefs": [
+       {
+        "Id": "882747087"
+       }
+      ]
+     },
+     {
+      "Id": "2245995854",
+      "Name": "DCP_Enter07",
+      "ObjectPath": "\\Events\\Default Work Unit\\Maps\\DCP_the_core\\DCP_Enter07",
+      "GUID": "{0E6BBC63-CAFE-4A39-943F-49818DC93D85}",
+      "DurationType": "OneShot",
+      "DurationMin": "3",
+      "DurationMax": "3",
+      "MediaRefs": [
+       {
+        "Id": "405744097"
+       }
+      ]
+     },
+     {
+      "Id": "2245995841",
+      "Name": "DCP_Enter08",
+      "ObjectPath": "\\Events\\Default Work Unit\\Maps\\DCP_the_core\\DCP_Enter08",
+      "GUID": "{FFA71258-4D8A-4922-9FED-806073575C45}",
+      "DurationType": "OneShot",
+      "DurationMin": "1.95",
+      "DurationMax": "1.95",
+      "MediaRefs": [
+       {
+        "Id": "965577559"
+       }
+      ]
+     },
+     {
+      "Id": "2245995840",
+      "Name": "DCP_Enter09",
+      "ObjectPath": "\\Events\\Default Work Unit\\Maps\\DCP_the_core\\DCP_Enter09",
+      "GUID": "{4E652613-1E27-4F7D-94F8-123EFB92EF06}",
+      "DurationType": "OneShot",
+      "DurationMin": "2.1722677",
+      "DurationMax": "2.1722677",
+      "MediaRefs": [
+       {
+        "Id": "819733394"
+       }
+      ]
+     },
+     {
+      "Id": "2229218262",
+      "Name": "DCP_Enter10",
+      "ObjectPath": "\\Events\\Default Work Unit\\Maps\\DCP_the_core\\DCP_Enter10",
+      "GUID": "{2F6A4ACD-C93C-4265-AB3F-5A72A1539594}",
+      "DurationType": "OneShot",
+      "DurationMin": "2.2",
+      "DurationMax": "2.2",
+      "MediaRefs": [
+       {
+        "Id": "55290557"
+       }
+      ]
+     },
+     {
+      "Id": "2229218263",
+      "Name": "DCP_Enter11",
+      "ObjectPath": "\\Events\\Default Work Unit\\Maps\\DCP_the_core\\DCP_Enter11",
+      "GUID": "{52955D3F-4A13-4D8D-A944-DD781BF276DE}",
+      "DurationType": "OneShot",
+      "DurationMin": "3.42",
+      "DurationMax": "3.42",
+      "MediaRefs": [
+       {
+        "Id": "651618676"
+       }
+      ]
+     },
+     {
+      "Id": "2229218260",
+      "Name": "DCP_Enter12",
+      "ObjectPath": "\\Events\\Default Work Unit\\Maps\\DCP_the_core\\DCP_Enter12",
+      "GUID": "{1009821C-B1D3-4F27-86FA-AD3594BE80F2}",
+      "DurationType": "OneShot",
+      "DurationMin": "1.8828799",
+      "DurationMax": "1.8828799",
+      "MediaRefs": [
+       {
+        "Id": "209784911"
+       }
+      ]
+     },
+     {
+      "Id": "2829720188",
+      "Name": "DCP_Signal01",
+      "ObjectPath": "\\Events\\Default Work Unit\\Maps\\DCP_the_core\\DCP_Signal01",
+      "GUID": "{0AA6C6BA-85F7-4D99-90EF-C45F30C0196F}",
+      "DurationType": "OneShot",
+      "DurationMin": "2.600136",
+      "DurationMax": "2.600136",
+      "MediaRefs": [
+       {
+        "Id": "187024402"
+       }
+      ],
+      "PluginRefs": {
+       "Custom": [
+        {
+         "Id": "805262001"
+        }
+       ]
+      }
+     },
+     {
+      "Id": "2829720191",
+      "Name": "DCP_Signal02",
+      "ObjectPath": "\\Events\\Default Work Unit\\Maps\\DCP_the_core\\DCP_Signal02",
+      "GUID": "{88C361A8-79B9-4310-8823-6D22B8CF7495}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.15102041",
+      "DurationMax": "0.15102041",
+      "MediaRefs": [
+       {
+        "Id": "603800779"
+       }
+      ],
+      "PluginRefs": {
+       "Custom": [
+        {
+         "Id": "564140752"
+        }
+       ]
+      }
+     }
+    ]
+   }
+  ],
+  "FileHash": "{D25C4C0D-C8D1-5ECB-331F-40DD5337085E}"
+ }
+}

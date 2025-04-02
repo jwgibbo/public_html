@@ -1,0 +1,188 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "2390793602",
+    "Type": "Event",
+    "GUID": "{DF884660-E441-4668-A578-E858343B93FB}",
+    "Language": "SFX",
+    "Hash": "{39D4884B-F371-1341-5296-5486057CC6D1}",
+    "ObjectPath": "Fire_IceGem_Player",
+    "ShortName": "Fire_IceGem_Player",
+    "Path": "Event/2390793602.bnk",
+    "Media": [
+     {
+      "Id": "133549190",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Gem_Recharge.wav",
+      "Path": "Media/133549190.wem",
+      "CachePath": "17/{17692303-41A5-4169-A08C-CBAB169C93B8}.wem"
+     },
+     {
+      "Id": "224244724",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Gem_Breaking_Tail-03.wav",
+      "Path": "Media/224244724.wem",
+      "CachePath": "50/{50099C81-79DF-77FF-40E8-5EE3C0AB754B}.wem"
+     },
+     {
+      "Id": "335044981",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Gem_Breaking_Tail-04.wav",
+      "Path": "Media/335044981.wem",
+      "CachePath": "F3/{F31228F1-640D-CABB-6680-F31E02539AD2}.wem"
+     },
+     {
+      "Id": "428614983",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Gem_Breaking_Head-04.wav",
+      "Path": "Media/428614983.wem",
+      "CachePath": "B1/{B12984B7-72D5-8C4A-8538-217E8915CF37}.wem"
+     },
+     {
+      "Id": "594466814",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Gem_Breaking_Head-01.wav",
+      "Path": "Media/594466814.wem",
+      "CachePath": "9C/{9C1EADB9-B677-6516-7BC1-15235C6E7B58}.wem"
+     },
+     {
+      "Id": "600264802",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Gem_Breaking_Head-02.wav",
+      "Path": "Media/600264802.wem",
+      "CachePath": "E7/{E70F9481-931F-FE06-985D-ADD1635E1516}.wem"
+     },
+     {
+      "Id": "602085268",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Gem_Breaking_Head-03.wav",
+      "Path": "Media/602085268.wem",
+      "CachePath": "78/{78A1708E-204E-70F0-7B89-53D1ABDAD382}.wem"
+     },
+     {
+      "Id": "619247059",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Gem_Breaking_Tail-02.wav",
+      "Path": "Media/619247059.wem",
+      "CachePath": "6A/{6AC1B9AD-7D97-002A-BB6F-F17E97F5DD86}.wem"
+     },
+     {
+      "Id": "796997044",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Gem_Recharge.wav",
+      "Path": "Media/796997044.wem",
+      "CachePath": "13/{1392FAC4-B736-A7AF-BAA1-C636E25E02FC}.wem"
+     },
+     {
+      "Id": "990812343",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Gem_Breaking_Tail-01.wav",
+      "Path": "Media/990812343.wem",
+      "CachePath": "53/{530E28E2-67BB-EE7B-9A03-A44D513F7704}.wem"
+     },
+     {
+      "Id": "1071749337",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "IceGem_Blast.wav",
+      "Path": "Media/1071749337.wem",
+      "CachePath": "D1/{D189238C-97A0-D6ED-C5C0-0E37CCC543EF}.wem"
+     }
+    ],
+    "Plugins": {
+     "Custom": [
+      {
+       "Id": "593025620",
+       "Name": "Wwise Silence",
+       "ObjectPath": "\\Actor-Mixer Hierarchy\\Default Work Unit\\Main\\Magic\\IceGem Magic\\Gem Drop\\Silence\\Wwise Silence",
+       "GUID": "{F7B58FAC-2753-4295-A925-D494C64861E0}",
+       "Color": "2",
+       "LibName": "Wwise Silence",
+       "LibId": "6619138"
+      }
+     ]
+    },
+    "Events": [
+     {
+      "Id": "2390793602",
+      "Name": "Fire_IceGem_Player",
+      "ObjectPath": "\\Events\\Default Work Unit\\Main\\Magic\\Fire_IceGem_Player",
+      "GUID": "{DF884660-E441-4668-A578-E858343B93FB}",
+      "DurationType": "OneShot",
+      "DurationMin": "2.25726",
+      "DurationMax": "2.25726",
+      "MediaRefs": [
+       {
+        "Id": "133549190"
+       },
+       {
+        "Id": "224244724"
+       },
+       {
+        "Id": "335044981"
+       },
+       {
+        "Id": "428614983"
+       },
+       {
+        "Id": "594466814"
+       },
+       {
+        "Id": "600264802"
+       },
+       {
+        "Id": "602085268"
+       },
+       {
+        "Id": "619247059"
+       },
+       {
+        "Id": "796997044"
+       },
+       {
+        "Id": "990812343"
+       },
+       {
+        "Id": "1071749337"
+       }
+      ],
+      "PluginRefs": {
+       "Custom": [
+        {
+         "Id": "593025620"
+        }
+       ]
+      }
+     }
+    ]
+   }
+  ],
+  "FileHash": "{2C0C878B-8EC3-67BE-A63B-F47EAE5BA802}"
+ }
+}

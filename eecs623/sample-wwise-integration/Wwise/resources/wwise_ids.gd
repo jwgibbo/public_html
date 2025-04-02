@@ -1,0 +1,215 @@
+class_name AK
+
+class EVENTS:
+
+	const DEFEATED_BAUUL : int = 1922349781
+	const DEFEATED_GOBLIN : int = 375266055
+	const DEFEATED_HELLPIG : int = 3507659693
+	const DEFEATED_KNIGHT : int = 1542346421
+	const DEFEATED_OGRE : int = 427908151
+	const DEFEATED_PLAYER : int = 3682968165
+	const DEFEATED_RAT : int = 3952911171
+	const DEFEATED_RHINO : int = 1278524204
+	const DEFEATED_SLITH : int = 908277812
+	const FOOT_BAUUL : int = 2677919691
+	const FOOT_GOBLIN : int = 2057306229
+	const FOOT_HELLPIG : int = 4226354843
+	const FOOT_KNIGHT : int = 2052767559
+	const FOOT_OGRE : int = 1532553273
+	const FOOT_PLAYER : int = 1894362767
+	const FOOT_RAT : int = 2798325225
+	const FOOT_RHINO : int = 3826003282
+	const FOOT_SLITH : int = 3877293442
+	const GRUNT_BAUUL : int = 856071815
+	const GRUNT_GOBLIN : int = 4013911457
+	const GRUNT_HELLPIG : int = 4053570031
+	const GRUNT_KNIGHT : int = 1636303851
+	const GRUNT_OGRE : int = 2202981293
+	const GRUNT_RAT : int = 3838741285
+	const GRUNT_RHINO : int = 436652326
+	const GRUNT_SLITH : int = 401958326
+	const END_FIREGEM_MONSTER : int = 3808688735
+	const END_FIREGEM_PLAYER : int = 9714164
+	const END_FIREBALL_MONSTER : int = 4214542295
+	const END_ICEBALL_MONSTER : int = 2007968988
+	const END_SLIMEBALL_MONSTER : int = 360217301
+	const FIRE_BITE_MONSTER : int = 784615425
+	const FIRE_FIREGEM_MONSTER : int = 2460807274
+	const FIRE_FIREGEM_PLAYER : int = 3954861711
+	const FIRE_FIREBALL_MONSTER : int = 157654016
+	const FIRE_ICEGEM_MONSTER : int = 2117476293
+	const FIRE_ICEGEM_PLAYER : int = 2390793602
+	const FIRE_ICEBALL_MONSTER : int = 840179825
+	const FIRE_LIGHTNINGGEM_MONSTER : int = 2921530952
+	const FIRE_LIGHTNINGGEM_PLAYER : int = 1098487589
+	const FIRE_POISONGEM_MONSTER : int = 4290568846
+	const FIRE_POISONGEM_PLAYER : int = 1620107411
+	const FIRE_SLIMEBALL_MONSTER : int = 199291532
+	const FIRE_STAFF_PLAYER : int = 2484024762
+	const HIT_FIREGEM_MONSTER : int = 2323254379
+	const HIT_FIREGEM_PLAYER : int = 2706330144
+	const HIT_FIREBALL_MONSTER : int = 1110865203
+	const HIT_FIREBALL_PLAYER : int = 3638319432
+	const HIT_ICEBALL_MONSTER : int = 3957683912
+	const HIT_ICEBALL_PLAYER : int = 1511371941
+	const HIT_SLIMEBALL_MONSTER : int = 3024368545
+	const PAIN : int = 1996139369
+	const PAIN_BAUUL : int = 930941543
+	const PAIN_GOBLIN : int = 32029953
+	const PAIN_HELLPIG : int = 4052749775
+	const PAIN_KNIGHT : int = 1207059019
+	const PAIN_OGRE : int = 2465710861
+	const PAIN_RAT : int = 1698673413
+	const PAIN_RHINO : int = 87064326
+	const PAIN_SLITH : int = 52370326
+	const ITEMHEALTH100 : int = 2677419351
+	const ITEMHEALTH200 : int = 227445756
+	const ITEMMAGIC : int = 2521139513
+	const ITEMSPAWN : int = 1125681085
+	const ITEMWIZARDHAT100 : int = 3825277969
+	const ITEMWIZARDHAT150 : int = 3875610858
+	const JUMP : int = 3833651337
+	const JUMPPAD : int = 4149105284
+	const LAND : int = 674522502
+	const MAP_LOADED : int = 1758594367
+	const NOMAGIC : int = 219497941
+	const PUPMAGIC : int = 1052365209
+	const PUPOUT : int = 3732061108
+	const RUMBLE : int = 157639802
+	const SPAWN_MONSTER : int = 779629997
+	const SPAWN_PLAYER : int = 1379053034
+	const SPLASHIN_MONSTER : int = 160686570
+	const SPLASHIN_PLAYER : int = 3954482959
+	const SPLASHOUT_MONSTER : int = 3999919399
+	const SPLASHOUT_PLAYER : int = 3877942876
+	const SUPERGEMPUP : int = 3137127082
+	const SWITCHMAGIC : int = 2437085230
+	const TELEPORT : int = 530129416
+	const TELEPORTER : int = 3373753397
+	const DCP_ENTER01 : int = 2245995848
+	const DCP_ENTER02 : int = 2245995851
+	const DCP_ENTER03 : int = 2245995850
+	const DCP_ENTER04 : int = 2245995853
+	const DCP_ENTER05 : int = 2245995852
+	const DCP_ENTER06 : int = 2245995855
+	const DCP_ENTER07 : int = 2245995854
+	const DCP_ENTER08 : int = 2245995841
+	const DCP_ENTER09 : int = 2245995840
+	const DCP_ENTER10 : int = 2229218262
+	const DCP_ENTER11 : int = 2229218263
+	const DCP_ENTER12 : int = 2229218260
+	const DCP_SIGNAL01 : int = 2829720188
+	const DCP_SIGNAL02 : int = 2829720191
+	const BOSS_START : int = 2985974755
+	const MAP_COMPLETED : int = 1656055475
+	const MONSTERS_AWARE : int = 3430883159
+	const MONSTERS_UNAWARE : int = 2415014760
+	const MUSIC : int = 3991942870
+	const STORY_END : int = 1815461482
+	const STORY_START : int = 2778113369
+
+class STATES:
+
+	class PLAYERHASSUPERGEM:
+		const GROUP : int = 1771987172
+	
+		class STATE:
+			const NO : int = 1668749452
+			const NONE : int = 748895195
+			const YES : int = 979470758
+
+	class PLAYERINWATER:
+		const GROUP : int = 481714212
+	
+		class STATE:
+			const NO : int = 1668749452
+			const NONE : int = 748895195
+			const YES : int = 979470758
+
+	class PLAYERLIFE:
+		const GROUP : int = 444815956
+	
+		class STATE:
+			const ALIVE : int = 655265632
+			const DEFEATED : int = 2791675679
+			const NONE : int = 748895195
+
+	class MUSIC_STATE:
+		const GROUP : int = 3826569560
+	
+		class STATE:
+			const BOSS : int = 1560169506
+			const GAMEPLAY : int = 89505537
+			const NONE : int = 748895195
+			const STORY : int = 1686739444
+			const VICTORY : int = 2716678721
+
+
+class SWITCHES:
+
+	class FOOT:
+		const GROUP : int = 3031504797
+	
+		class SWITCH:
+			const LEFT : int = 4109362
+			const RIGHT : int = 3893817417
+
+	class MATERIAL:
+		const GROUP : int = 3865314626
+	
+		class SWITCH:
+			const CONCRETE : int = 841620460
+			const GRASS : int = 4248645337
+			const GRAVEL : int = 2185786256
+			const METAL : int = 2473969246
+			const SAND : int = 803837735
+			const STONE : int = 1216965916
+			const TILE : int = 2637588553
+			const WATER : int = 2654748154
+			const WOOD : int = 2058049674
+
+	class GAMEPLAY_SWITCH:
+		const GROUP : int = 2702523344
+	
+		class SWITCH:
+			const COMBAT : int = 2764240573
+			const EXPLORE : int = 579523862
+
+	class HEALTH_STATUS:
+		const GROUP : int = 2224580244
+	
+		class SWITCH:
+			const BADLY_INJURED : int = 1736617117
+			const FLESH_WOUND : int = 3519121093
+			const HEALTHY : int = 2874639328
+			const NEARLY_DEFEATED : int = 1898225071
+
+
+class GAME_PARAMETERS:
+
+	const MUSICVOLUME : int = 2346531308
+	const PLAYERHEALTH : int = 151362964
+	const SFXVOLUME : int = 988953028
+	const VOICEVOLUME : int = 414646191
+	const ENEMYAWARE : int = 3963624107
+
+class TRIGGERS:
+
+	const CYMBAL_SWELL : int = 2077047193
+	const HEALTH_CUE : int = 3371734183
+
+class BANKS:
+
+	const DCP_THE_CORE : int = 2981918260
+	const MAIN : int = 3161908922
+	const MUSIC : int = 3991942870
+
+class AUX_BUSSES:
+
+	const ENV_SMALL_ROOM : int = 783969252
+	const ENV_CORRIDOR : int = 194525819
+	const ENV_LARGE_ROOM : int = 3877888880
+	const ENV_MEDIUM_ROOM : int = 4102571502
+
+class ACOUSTIC_TEXTURES:
+	pass

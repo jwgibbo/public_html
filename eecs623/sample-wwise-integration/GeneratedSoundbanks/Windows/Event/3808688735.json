@@ -1,0 +1,33 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "3808688735",
+    "Type": "Event",
+    "GUID": "{83920277-EC7E-4512-AC67-526E171A5AD0}",
+    "Language": "SFX",
+    "Hash": "{29F63855-A522-50A8-BE39-94839BFA7E2E}",
+    "ObjectPath": "End_FireGem_Monster",
+    "ShortName": "End_FireGem_Monster",
+    "Path": "Event/3808688735.bnk",
+    "Events": [
+     {
+      "Id": "3808688735",
+      "Name": "End_FireGem_Monster",
+      "ObjectPath": "\\Events\\Default Work Unit\\Main\\Magic\\End_FireGem_Monster",
+      "GUID": "{83920277-EC7E-4512-AC67-526E171A5AD0}",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0"
+     }
+    ]
+   }
+  ],
+  "FileHash": "{3465F674-4497-8BF3-0F88-06F51FB2A503}"
+ }
+}

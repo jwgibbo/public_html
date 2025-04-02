@@ -1,0 +1,6 @@
+Event	ID	Name			Wwise Object Path	Notes
+	360217301	End_Slimeball_Monster			\Default Work Unit\Main\Magic\End_Slimeball_Monster	
+
+Source plug-ins	ID	Name	Type		Wwise Object Path	Notes
+	739702003	Wwise Silence	Wwise Silence		\Actor-Mixer Hierarchy\Default Work Unit\Main\Magic\Silence\Wwise Silence	
+

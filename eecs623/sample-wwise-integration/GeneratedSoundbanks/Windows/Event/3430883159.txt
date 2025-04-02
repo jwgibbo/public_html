@@ -1,0 +1,3 @@
+Event	ID	Name			Wwise Object Path	Notes
+	3430883159	Monsters_Aware			\Music\Monsters_Aware	
+

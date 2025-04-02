@@ -1,0 +1,246 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "3954861711",
+    "Type": "Event",
+    "GUID": "{4A9272CB-4C58-469C-BA1B-6A95E1475CEE}",
+    "Language": "SFX",
+    "Hash": "{AFCC568D-136F-7BF9-5CD1-07617647338C}",
+    "ObjectPath": "Fire_FireGem_Player",
+    "ShortName": "Fire_FireGem_Player",
+    "Path": "Event/3954861711.bnk",
+    "Media": [
+     {
+      "Id": "28283556",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "FireGem_Blast-05.wav",
+      "Path": "Media/28283556.wem",
+      "CachePath": "8A/{8A98823E-7016-D23B-6D07-2B8E40517776}.wem"
+     },
+     {
+      "Id": "133549190",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Gem_Recharge.wav",
+      "Path": "Media/133549190.wem",
+      "CachePath": "17/{17692303-41A5-4169-A08C-CBAB169C93B8}.wem"
+     },
+     {
+      "Id": "214114450",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "FireGem_Flight.wav",
+      "Path": "Media/214114450.wem",
+      "CachePath": "05/{0514539C-8655-61D5-9018-89480F795396}.wem"
+     },
+     {
+      "Id": "224244724",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Gem_Breaking_Tail-03.wav",
+      "Path": "Media/224244724.wem",
+      "CachePath": "50/{50099C81-79DF-77FF-40E8-5EE3C0AB754B}.wem"
+     },
+     {
+      "Id": "335044981",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Gem_Breaking_Tail-04.wav",
+      "Path": "Media/335044981.wem",
+      "CachePath": "F3/{F31228F1-640D-CABB-6680-F31E02539AD2}.wem"
+     },
+     {
+      "Id": "413788412",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "FireGem_Blast-02.wav",
+      "Path": "Media/413788412.wem",
+      "CachePath": "46/{46A41087-AE79-E264-CB5A-9A4FCED9AD6E}.wem"
+     },
+     {
+      "Id": "428614983",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Gem_Breaking_Head-04.wav",
+      "Path": "Media/428614983.wem",
+      "CachePath": "B1/{B12984B7-72D5-8C4A-8538-217E8915CF37}.wem"
+     },
+     {
+      "Id": "532452342",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "FireGem_Blast-04.wav",
+      "Path": "Media/532452342.wem",
+      "CachePath": "CE/{CE8D7881-0FCD-53F7-ED82-AF194C8F5A97}.wem"
+     },
+     {
+      "Id": "594466814",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Gem_Breaking_Head-01.wav",
+      "Path": "Media/594466814.wem",
+      "CachePath": "9C/{9C1EADB9-B677-6516-7BC1-15235C6E7B58}.wem"
+     },
+     {
+      "Id": "599154377",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "FireGem_Blast-03.wav",
+      "Path": "Media/599154377.wem",
+      "CachePath": "81/{81279B5F-A431-D589-98F9-983FEB9CD5EB}.wem"
+     },
+     {
+      "Id": "600264802",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Gem_Breaking_Head-02.wav",
+      "Path": "Media/600264802.wem",
+      "CachePath": "E7/{E70F9481-931F-FE06-985D-ADD1635E1516}.wem"
+     },
+     {
+      "Id": "602085268",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Gem_Breaking_Head-03.wav",
+      "Path": "Media/602085268.wem",
+      "CachePath": "78/{78A1708E-204E-70F0-7B89-53D1ABDAD382}.wem"
+     },
+     {
+      "Id": "619247059",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Gem_Breaking_Tail-02.wav",
+      "Path": "Media/619247059.wem",
+      "CachePath": "6A/{6AC1B9AD-7D97-002A-BB6F-F17E97F5DD86}.wem"
+     },
+     {
+      "Id": "620567497",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "FireGem_Blast-01.wav",
+      "Path": "Media/620567497.wem",
+      "CachePath": "26/{268E85E0-3677-B523-6724-9B9C128F95B8}.wem"
+     },
+     {
+      "Id": "796997044",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Gem_Recharge.wav",
+      "Path": "Media/796997044.wem",
+      "CachePath": "13/{1392FAC4-B736-A7AF-BAA1-C636E25E02FC}.wem"
+     },
+     {
+      "Id": "990812343",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Gem_Breaking_Tail-01.wav",
+      "Path": "Media/990812343.wem",
+      "CachePath": "53/{530E28E2-67BB-EE7B-9A03-A44D513F7704}.wem"
+     }
+    ],
+    "Plugins": {
+     "Custom": [
+      {
+       "Id": "88765737",
+       "Name": "Wwise Silence",
+       "ObjectPath": "\\Actor-Mixer Hierarchy\\Default Work Unit\\Main\\Magic\\FireGem Magic\\Gem Drop\\Silence\\Wwise Silence",
+       "GUID": "{CB512F1C-98C2-4DD3-84F0-9A7E690D3FC0}",
+       "Color": "2",
+       "LibName": "Wwise Silence",
+       "LibId": "6619138"
+      }
+     ]
+    },
+    "Events": [
+     {
+      "Id": "3954861711",
+      "Name": "Fire_FireGem_Player",
+      "ObjectPath": "\\Events\\Default Work Unit\\Main\\Magic\\Fire_FireGem_Player",
+      "GUID": "{4A9272CB-4C58-469C-BA1B-6A95E1475CEE}",
+      "DurationType": "Infinite",
+      "MediaRefs": [
+       {
+        "Id": "28283556"
+       },
+       {
+        "Id": "133549190"
+       },
+       {
+        "Id": "214114450"
+       },
+       {
+        "Id": "224244724"
+       },
+       {
+        "Id": "335044981"
+       },
+       {
+        "Id": "413788412"
+       },
+       {
+        "Id": "428614983"
+       },
+       {
+        "Id": "532452342"
+       },
+       {
+        "Id": "594466814"
+       },
+       {
+        "Id": "599154377"
+       },
+       {
+        "Id": "600264802"
+       },
+       {
+        "Id": "602085268"
+       },
+       {
+        "Id": "619247059"
+       },
+       {
+        "Id": "620567497"
+       },
+       {
+        "Id": "796997044"
+       },
+       {
+        "Id": "990812343"
+       }
+      ],
+      "PluginRefs": {
+       "Custom": [
+        {
+         "Id": "88765737"
+        }
+       ]
+      }
+     }
+    ]
+   }
+  ],
+  "FileHash": "{B0433B80-6E35-D919-116D-E8983DD01C8A}"
+ }
+}

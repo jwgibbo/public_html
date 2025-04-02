@@ -1,0 +1,48 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "194525819",
+    "Type": "Bus",
+    "GUID": "{65A82852-46E5-4CFF-A5D4-33D858E35BDA}",
+    "Language": "SFX",
+    "Hash": "{46A344E7-BD4D-C053-BE1C-7549C015A528}",
+    "ObjectPath": "env_corridor",
+    "ShortName": "env_corridor",
+    "Path": "Bus/194525819.bnk",
+    "Plugins": {
+     "ShareSets": [
+      {
+       "Id": "194525819",
+       "Name": "env_corridor",
+       "ObjectPath": "\\Effects\\Default Work Unit\\env_corridor",
+       "GUID": "{808425F6-DB52-49DE-9065-29C6522016B5}",
+       "LibName": "Wwise RoomVerb",
+       "LibId": "7733251"
+      }
+     ]
+    },
+    "AuxBusses": [
+     {
+      "Id": "194525819",
+      "Name": "env_corridor",
+      "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\Environmental\\Environments\\env_corridor",
+      "GUID": "{65A82852-46E5-4CFF-A5D4-33D858E35BDA}",
+      "PluginRefs": {
+       "ShareSets": [
+        {
+         "Id": "194525819"
+        }
+       ]
+      }
+     }
+    ]
+   }
+  ],
+  "FileHash": "{30CD58FB-8D8F-2EF1-968D-45665F6B1BF1}"
+ }
+}

@@ -1,0 +1,60 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "2465710861",
+    "Type": "Event",
+    "GUID": "{97329E7D-0554-4415-A5EE-367BF0321C67}",
+    "Language": "SFX",
+    "Hash": "{30B3DFB2-116F-DDED-A18C-B875961D4AF2}",
+    "ObjectPath": "Pain_Ogre",
+    "ShortName": "Pain_Ogre",
+    "Path": "Event/2465710861.bnk",
+    "Media": [
+     {
+      "Id": "858495136",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "paino_1.wav",
+      "Path": "Media/858495136.wem",
+      "CachePath": "A9/{A9A0CCF9-CF38-8C17-DAC7-06246A9E69CE}.wem"
+     },
+     {
+      "Id": "944893494",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "paino_2.wav",
+      "Path": "Media/944893494.wem",
+      "CachePath": "EC/{EC5CBA34-6638-B474-66F0-654F22B3F7CF}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "2465710861",
+      "Name": "Pain_Ogre",
+      "ObjectPath": "\\Events\\Default Work Unit\\Main\\Pain\\Pain_Ogre",
+      "GUID": "{97329E7D-0554-4415-A5EE-367BF0321C67}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.4107275",
+      "DurationMax": "0.6932117",
+      "MediaRefs": [
+       {
+        "Id": "858495136"
+       },
+       {
+        "Id": "944893494"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{8584E9A6-C134-87AA-382E-5A540B7607B6}"
+ }
+}

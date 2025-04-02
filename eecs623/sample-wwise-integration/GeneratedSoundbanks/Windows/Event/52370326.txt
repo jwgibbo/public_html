@@ -1,0 +1,3 @@
+Event	ID	Name			Wwise Object Path	Notes
+	52370326	Pain_Slith			\Default Work Unit\Main\Pain\Pain_Slith	
+

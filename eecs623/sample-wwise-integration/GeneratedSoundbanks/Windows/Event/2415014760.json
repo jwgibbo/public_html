@@ -1,0 +1,33 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "2415014760",
+    "Type": "Event",
+    "GUID": "{A9950EB0-D462-4098-ADA7-5B021383F4D9}",
+    "Language": "SFX",
+    "Hash": "{858D0456-1B7F-2B0C-9AE2-8D8AF0C8E549}",
+    "ObjectPath": "Monsters_Unaware",
+    "ShortName": "Monsters_Unaware",
+    "Path": "Event/2415014760.bnk",
+    "Events": [
+     {
+      "Id": "2415014760",
+      "Name": "Monsters_Unaware",
+      "ObjectPath": "\\Events\\Music\\Monsters_Unaware",
+      "GUID": "{A9950EB0-D462-4098-ADA7-5B021383F4D9}",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0"
+     }
+    ]
+   }
+  ],
+  "FileHash": "{9DEF3A01-23F2-E39D-EA76-77B9644D0999}"
+ }
+}

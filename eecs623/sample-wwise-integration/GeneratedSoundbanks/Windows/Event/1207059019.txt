@@ -1,0 +1,3 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1207059019	Pain_Knight			\Default Work Unit\Main\Pain\Pain_Knight	
+

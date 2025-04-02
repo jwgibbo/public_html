@@ -1,0 +1,48 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "856071815",
+    "Type": "Event",
+    "GUID": "{83501A93-0D6A-4DFE-B99C-2AF094058A6A}",
+    "Language": "SFX",
+    "Hash": "{05DE9244-2EE0-15C0-C308-C847A8DEC0E2}",
+    "ObjectPath": "Grunt_Bauul",
+    "ShortName": "Grunt_Bauul",
+    "Path": "Event/856071815.bnk",
+    "Media": [
+     {
+      "Id": "522671429",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "grunt1.wav",
+      "Path": "Media/522671429.wem",
+      "CachePath": "13/{13A110B7-8B63-C90A-7CAD-80F15B846005}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "856071815",
+      "Name": "Grunt_Bauul",
+      "ObjectPath": "\\Events\\Default Work Unit\\Main\\Grunt\\Grunt_Bauul",
+      "GUID": "{83501A93-0D6A-4DFE-B99C-2AF094058A6A}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.8558455",
+      "DurationMax": "1.1424167",
+      "MediaRefs": [
+       {
+        "Id": "522671429"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{205EB5D5-80E2-0351-9B79-123ADD2F9A1F}"
+ }
+}

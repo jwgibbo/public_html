@@ -1,0 +1,3 @@
+Event	ID	Name			Wwise Object Path	Notes
+	3957683912	Hit_Iceball_Monster			\Default Work Unit\Main\Magic\Hit_Iceball_Monster	
+

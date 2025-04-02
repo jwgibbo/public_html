@@ -1,0 +1,6 @@
+Auxiliary Bus	ID	Name			Wwise Object Path	Notes
+	4102571502	env_medium_room			\Default Work Unit\Master Audio Bus\Environmental\Environments\env_medium_room	
+
+Effect plug-ins	ID	Name	Type				Notes
+	1990128658	Room_Medium	Wwise RoomVerb			
+

@@ -1,0 +1,82 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "1815461482",
+    "Type": "Event",
+    "GUID": "{C08EF6F8-827C-4D77-96B8-ABC152C4F5A6}",
+    "Language": "SFX",
+    "Hash": "{FE5D2638-7DFD-54EA-7EED-3286CC23F464}",
+    "ObjectPath": "Story_End",
+    "ShortName": "Story_End",
+    "Path": "Event/1815461482.bnk",
+    "Events": [
+     {
+      "Id": "1815461482",
+      "Name": "Story_End",
+      "ObjectPath": "\\Events\\Music\\Story_End",
+      "GUID": "{C08EF6F8-827C-4D77-96B8-ABC152C4F5A6}",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0",
+      "ActionSetState": [
+       {
+        "GroupId": "3826569560",
+        "Id": "89505537",
+        "Name": "Gameplay",
+        "ObjectPath": "\\States\\Music\\Music_State\\Gameplay",
+        "GUID": "{43F74036-9C8B-48E0-A58E-C2D50FE727C4}"
+       }
+      ]
+     }
+    ],
+    "StateGroups": [
+     {
+      "Id": "3826569560",
+      "Name": "Music_State",
+      "ObjectPath": "\\States\\Music\\Music_State",
+      "GUID": "{1CA42C08-F326-45CB-B2BB-98F2430D7A33}",
+      "States": [
+       {
+        "Id": "89505537",
+        "Name": "Gameplay",
+        "ObjectPath": "\\States\\Music\\Music_State\\Gameplay",
+        "GUID": "{43F74036-9C8B-48E0-A58E-C2D50FE727C4}"
+       },
+       {
+        "Id": "748895195",
+        "Name": "None",
+        "ObjectPath": "\\States\\Music\\Music_State\\None",
+        "GUID": "{77810230-8477-4DDD-A39C-08ACF998DD62}"
+       },
+       {
+        "Id": "1560169506",
+        "Name": "Boss",
+        "ObjectPath": "\\States\\Music\\Music_State\\Boss",
+        "GUID": "{560DAA33-7BFB-40A0-AC96-FAAFAE90C555}"
+       },
+       {
+        "Id": "1686739444",
+        "Name": "Story",
+        "ObjectPath": "\\States\\Music\\Music_State\\Story",
+        "GUID": "{AEDB1900-473B-4612-B981-E1AD3FAB08E2}"
+       },
+       {
+        "Id": "2716678721",
+        "Name": "Victory",
+        "ObjectPath": "\\States\\Music\\Music_State\\Victory",
+        "GUID": "{9D4E034F-41EC-4FF1-ACC3-389B09BADEF7}"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{9A074E11-D1EF-8777-F30C-A6747B366E92}"
+ }
+}

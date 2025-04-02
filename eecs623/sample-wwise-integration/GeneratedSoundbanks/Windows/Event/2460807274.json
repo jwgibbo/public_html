@@ -1,0 +1,106 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "2460807274",
+    "Type": "Event",
+    "GUID": "{B148845D-B917-4D6C-B559-B396112F3AAA}",
+    "Language": "SFX",
+    "Hash": "{77649644-F297-D68A-170E-2C1147F130BB}",
+    "ObjectPath": "Fire_FireGem_Monster",
+    "ShortName": "Fire_FireGem_Monster",
+    "Path": "Event/2460807274.bnk",
+    "Media": [
+     {
+      "Id": "28283556",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "FireGem_Blast-05.wav",
+      "Path": "Media/28283556.wem",
+      "CachePath": "8A/{8A98823E-7016-D23B-6D07-2B8E40517776}.wem"
+     },
+     {
+      "Id": "214114450",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "FireGem_Flight.wav",
+      "Path": "Media/214114450.wem",
+      "CachePath": "05/{0514539C-8655-61D5-9018-89480F795396}.wem"
+     },
+     {
+      "Id": "413788412",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "FireGem_Blast-02.wav",
+      "Path": "Media/413788412.wem",
+      "CachePath": "46/{46A41087-AE79-E264-CB5A-9A4FCED9AD6E}.wem"
+     },
+     {
+      "Id": "532452342",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "FireGem_Blast-04.wav",
+      "Path": "Media/532452342.wem",
+      "CachePath": "CE/{CE8D7881-0FCD-53F7-ED82-AF194C8F5A97}.wem"
+     },
+     {
+      "Id": "599154377",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "FireGem_Blast-03.wav",
+      "Path": "Media/599154377.wem",
+      "CachePath": "81/{81279B5F-A431-D589-98F9-983FEB9CD5EB}.wem"
+     },
+     {
+      "Id": "620567497",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "FireGem_Blast-01.wav",
+      "Path": "Media/620567497.wem",
+      "CachePath": "26/{268E85E0-3677-B523-6724-9B9C128F95B8}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "2460807274",
+      "Name": "Fire_FireGem_Monster",
+      "ObjectPath": "\\Events\\Default Work Unit\\Main\\Magic\\Fire_FireGem_Monster",
+      "GUID": "{B148845D-B917-4D6C-B559-B396112F3AAA}",
+      "DurationType": "Infinite",
+      "MediaRefs": [
+       {
+        "Id": "28283556"
+       },
+       {
+        "Id": "214114450"
+       },
+       {
+        "Id": "413788412"
+       },
+       {
+        "Id": "532452342"
+       },
+       {
+        "Id": "599154377"
+       },
+       {
+        "Id": "620567497"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{8941841C-132B-E305-726F-34F86FCED8A5}"
+ }
+}

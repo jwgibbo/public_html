@@ -1,0 +1,60 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "2007968988",
+    "Type": "Event",
+    "GUID": "{130F1CA7-01C2-499A-A468-4E6699000AD2}",
+    "Language": "SFX",
+    "Hash": "{E43FA88A-D8F0-E85D-3661-2CF58F1AB01E}",
+    "ObjectPath": "End_Iceball_Monster",
+    "ShortName": "End_Iceball_Monster",
+    "Path": "Event/2007968988.bnk",
+    "Media": [
+     {
+      "Id": "141022160",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "iceball1.wav",
+      "Path": "Media/141022160.wem",
+      "CachePath": "32/{32A40FED-117C-EF6F-3132-67EBB735D0A3}.wem"
+     },
+     {
+      "Id": "758758935",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "iceball2.wav",
+      "Path": "Media/758758935.wem",
+      "CachePath": "B2/{B2A28782-E4D5-9E7D-7FB5-83F675847C21}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "2007968988",
+      "Name": "End_Iceball_Monster",
+      "ObjectPath": "\\Events\\Default Work Unit\\Main\\Magic\\End_Iceball_Monster",
+      "GUID": "{130F1CA7-01C2-499A-A468-4E6699000AD2}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.8920408",
+      "DurationMax": "0.9456009",
+      "MediaRefs": [
+       {
+        "Id": "141022160"
+       },
+       {
+        "Id": "758758935"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{280BDB8F-002E-21F4-3447-A2B626E44A22}"
+ }
+}

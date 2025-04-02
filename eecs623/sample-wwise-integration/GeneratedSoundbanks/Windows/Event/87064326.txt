@@ -1,0 +1,3 @@
+Event	ID	Name			Wwise Object Path	Notes
+	87064326	Pain_Rhino			\Default Work Unit\Main\Pain\Pain_Rhino	
+

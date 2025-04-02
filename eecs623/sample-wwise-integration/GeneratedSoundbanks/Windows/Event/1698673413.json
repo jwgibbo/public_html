@@ -1,0 +1,60 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "1698673413",
+    "Type": "Event",
+    "GUID": "{42D69B63-3601-45EE-B24F-B0E0BD277819}",
+    "Language": "SFX",
+    "Hash": "{5C739281-012E-5D13-3930-70E8D5604277}",
+    "ObjectPath": "Pain_Rat",
+    "ShortName": "Pain_Rat",
+    "Path": "Event/1698673413.bnk",
+    "Media": [
+     {
+      "Id": "525218887",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "paine_2.wav",
+      "Path": "Media/525218887.wem",
+      "CachePath": "7B/{7B829A18-AC91-9DAA-6FEE-F88AFEBD8D03}.wem"
+     },
+     {
+      "Id": "1024935706",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "paine_1.wav",
+      "Path": "Media/1024935706.wem",
+      "CachePath": "0C/{0C6B4CBD-BAAE-FEB2-A899-7C9066A4C365}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "1698673413",
+      "Name": "Pain_Rat",
+      "ObjectPath": "\\Events\\Default Work Unit\\Main\\Pain\\Pain_Rat",
+      "GUID": "{42D69B63-3601-45EE-B24F-B0E0BD277819}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.40947142",
+      "DurationMax": "0.82485896",
+      "MediaRefs": [
+       {
+        "Id": "525218887"
+       },
+       {
+        "Id": "1024935706"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{7713E344-3341-5BDB-8F71-110E58AF6D9A}"
+ }
+}

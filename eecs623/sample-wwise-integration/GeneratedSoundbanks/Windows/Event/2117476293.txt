@@ -1,0 +1,3 @@
+Event	ID	Name			Wwise Object Path	Notes
+	2117476293	Fire_IceGem_Monster			\Default Work Unit\Main\Magic\Fire_IceGem_Monster	
+

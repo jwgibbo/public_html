@@ -1,0 +1,64 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "227445756",
+    "Type": "Event",
+    "GUID": "{BDEB98FC-346F-418D-8A21-41EC426C30AB}",
+    "Language": "SFX",
+    "Hash": "{FA4FA5D5-D146-3412-7B21-D0AAFC17736D}",
+    "ObjectPath": "ItemHealth200",
+    "ShortName": "ItemHealth200",
+    "Path": "Event/227445756.bnk",
+    "Media": [
+     {
+      "Id": "450169587",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Item_Magic.wav",
+      "Path": "Media/450169587.wem",
+      "CachePath": "A9/{A949CD8B-AADA-5004-D635-9AFA3D10F768}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "227445756",
+      "Name": "ItemHealth200",
+      "ObjectPath": "\\Events\\Default Work Unit\\Main\\ItemHealth200",
+      "GUID": "{BDEB98FC-346F-418D-8A21-41EC426C30AB}",
+      "DurationType": "OneShot",
+      "DurationMin": "1.2434791",
+      "DurationMax": "1.2434791",
+      "MediaRefs": [
+       {
+        "Id": "450169587"
+       }
+      ],
+      "ActionTrigger": [
+       {
+        "Id": "3371734183",
+        "Name": "Health_Cue",
+        "ObjectPath": "\\Triggers\\Music\\Health_Cue",
+        "GUID": "{67CEE7B7-5524-4B22-B401-B45CD162F7E9}"
+       }
+      ]
+     }
+    ],
+    "Triggers": [
+     {
+      "Id": "3371734183",
+      "Name": "Health_Cue",
+      "ObjectPath": "\\Triggers\\Music\\Health_Cue",
+      "GUID": "{67CEE7B7-5524-4B22-B401-B45CD162F7E9}"
+     }
+    ]
+   }
+  ],
+  "FileHash": "{1F3B65E0-F97F-FE85-0559-7BCCA9075BF7}"
+ }
+}

@@ -1,0 +1,48 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "3838741285",
+    "Type": "Event",
+    "GUID": "{96C66045-12FE-4308-BE4C-06DA0AF5029B}",
+    "Language": "SFX",
+    "Hash": "{2182C304-DBA2-6516-034E-C573D5882084}",
+    "ObjectPath": "Grunt_Rat",
+    "ShortName": "Grunt_Rat",
+    "Path": "Event/3838741285.bnk",
+    "Media": [
+     {
+      "Id": "522671429",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "grunt1.wav",
+      "Path": "Media/522671429.wem",
+      "CachePath": "13/{13A110B7-8B63-C90A-7CAD-80F15B846005}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "3838741285",
+      "Name": "Grunt_Rat",
+      "ObjectPath": "\\Events\\Default Work Unit\\Main\\Grunt\\Grunt_Rat",
+      "GUID": "{96C66045-12FE-4308-BE4C-06DA0AF5029B}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.8558455",
+      "DurationMax": "1.1424167",
+      "MediaRefs": [
+       {
+        "Id": "522671429"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{6602E817-4143-6D2C-6EA2-C68821989F76}"
+ }
+}

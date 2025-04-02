@@ -1,0 +1,60 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "2921530952",
+    "Type": "Event",
+    "GUID": "{C9AD2CA0-FE5E-4EDF-B7CE-B97B0D54529D}",
+    "Language": "SFX",
+    "Hash": "{DAEE6B6A-F611-1256-AE1C-A281923E52B8}",
+    "ObjectPath": "Fire_LightningGem_Monster",
+    "ShortName": "Fire_LightningGem_Monster",
+    "Path": "Event/2921530952.bnk",
+    "Media": [
+     {
+      "Id": "238926382",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "LightningGem_Blast-01.wav",
+      "Path": "Media/238926382.wem",
+      "CachePath": "3B/{3BE6AC9F-24D6-E395-6B94-D7F4115618AC}.wem"
+     },
+     {
+      "Id": "841798335",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "LightningGem_Blast-02.wav",
+      "Path": "Media/841798335.wem",
+      "CachePath": "4A/{4AF1B9BE-41F4-CB9F-21D7-F63CD6F8A849}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "2921530952",
+      "Name": "Fire_LightningGem_Monster",
+      "ObjectPath": "\\Events\\Default Work Unit\\Main\\Magic\\Fire_LightningGem_Monster",
+      "GUID": "{C9AD2CA0-FE5E-4EDF-B7CE-B97B0D54529D}",
+      "DurationType": "OneShot",
+      "DurationMin": "1.8077143",
+      "DurationMax": "2.2127392",
+      "MediaRefs": [
+       {
+        "Id": "238926382"
+       },
+       {
+        "Id": "841798335"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{5F748EB6-541D-8EA0-6230-0287AE34B561}"
+ }
+}

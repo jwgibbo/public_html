@@ -1,0 +1,48 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "1636303851",
+    "Type": "Event",
+    "GUID": "{A1D0ADF2-190C-48DA-84B1-998C6E017665}",
+    "Language": "SFX",
+    "Hash": "{C3080A94-73C7-6F04-AF9F-519C2CAE0E1B}",
+    "ObjectPath": "Grunt_Knight",
+    "ShortName": "Grunt_Knight",
+    "Path": "Event/1636303851.bnk",
+    "Media": [
+     {
+      "Id": "522671429",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "grunt1.wav",
+      "Path": "Media/522671429.wem",
+      "CachePath": "13/{13A110B7-8B63-C90A-7CAD-80F15B846005}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "1636303851",
+      "Name": "Grunt_Knight",
+      "ObjectPath": "\\Events\\Default Work Unit\\Main\\Grunt\\Grunt_Knight",
+      "GUID": "{A1D0ADF2-190C-48DA-84B1-998C6E017665}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.8558455",
+      "DurationMax": "1.1424167",
+      "MediaRefs": [
+       {
+        "Id": "522671429"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{E2993D6A-B7C3-DDEF-2C92-2A2707E64E48}"
+ }
+}

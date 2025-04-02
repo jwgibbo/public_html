@@ -1,0 +1,60 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "1511371941",
+    "Type": "Event",
+    "GUID": "{861B53EF-F969-4941-90C1-F76CCE5AF889}",
+    "Language": "SFX",
+    "Hash": "{FE69D914-45D5-CF88-46B4-ED478A50E4B4}",
+    "ObjectPath": "Hit_Iceball_Player",
+    "ShortName": "Hit_Iceball_Player",
+    "Path": "Event/1511371941.bnk",
+    "Media": [
+     {
+      "Id": "141022160",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "iceball1.wav",
+      "Path": "Media/141022160.wem",
+      "CachePath": "32/{32A40FED-117C-EF6F-3132-67EBB735D0A3}.wem"
+     },
+     {
+      "Id": "758758935",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "iceball2.wav",
+      "Path": "Media/758758935.wem",
+      "CachePath": "B2/{B2A28782-E4D5-9E7D-7FB5-83F675847C21}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "1511371941",
+      "Name": "Hit_Iceball_Player",
+      "ObjectPath": "\\Events\\Default Work Unit\\Main\\Magic\\Hit_Iceball_Player",
+      "GUID": "{861B53EF-F969-4941-90C1-F76CCE5AF889}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.8920408",
+      "DurationMax": "0.9456009",
+      "MediaRefs": [
+       {
+        "Id": "141022160"
+       },
+       {
+        "Id": "758758935"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{D6C7DE3C-062C-656A-BA7E-2DE7A189DC1F}"
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "4290568846",
+    "Type": "Event",
+    "GUID": "{067F395B-A110-4585-87D3-AB835962107F}",
+    "Language": "SFX",
+    "Hash": "{D38728A0-8B60-B715-7501-7519D104A32D}",
+    "ObjectPath": "Fire_PoisonGem_Monster",
+    "ShortName": "Fire_PoisonGem_Monster",
+    "Path": "Event/4290568846.bnk",
+    "Media": [
+     {
+      "Id": "131698730",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "PoisonGem_Blast-03.wav",
+      "Path": "Media/131698730.wem",
+      "CachePath": "08/{089E729C-583E-391C-1539-6B85497BE85E}.wem"
+     },
+     {
+      "Id": "136269548",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "PoisonGem_Blast-01.wav",
+      "Path": "Media/136269548.wem",
+      "CachePath": "88/{883D524A-3669-668C-CB9E-359E99818C42}.wem"
+     },
+     {
+      "Id": "435463209",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "PoisonGem_Blast-02.wav",
+      "Path": "Media/435463209.wem",
+      "CachePath": "D7/{D7B9C629-A4BD-BC0C-F65C-444EB7485267}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "4290568846",
+      "Name": "Fire_PoisonGem_Monster",
+      "ObjectPath": "\\Events\\Default Work Unit\\Main\\Magic\\Fire_PoisonGem_Monster",
+      "GUID": "{067F395B-A110-4585-87D3-AB835962107F}",
+      "DurationType": "OneShot",
+      "DurationMin": "1.2039231",
+      "DurationMax": "1.3156638",
+      "MediaRefs": [
+       {
+        "Id": "131698730"
+       },
+       {
+        "Id": "136269548"
+       },
+       {
+        "Id": "435463209"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{571F4D01-1330-A6BF-336A-A1C73227F8D0}"
+ }
+}

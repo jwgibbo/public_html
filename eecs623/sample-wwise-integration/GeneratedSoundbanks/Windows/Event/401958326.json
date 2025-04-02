@@ -1,0 +1,48 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "401958326",
+    "Type": "Event",
+    "GUID": "{1CA87B1E-0DC4-4188-9F63-466008E5824A}",
+    "Language": "SFX",
+    "Hash": "{C9224A0C-547B-C5B6-5326-06DC43E87EE2}",
+    "ObjectPath": "Grunt_Slith",
+    "ShortName": "Grunt_Slith",
+    "Path": "Event/401958326.bnk",
+    "Media": [
+     {
+      "Id": "522671429",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "grunt1.wav",
+      "Path": "Media/522671429.wem",
+      "CachePath": "13/{13A110B7-8B63-C90A-7CAD-80F15B846005}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "401958326",
+      "Name": "Grunt_Slith",
+      "ObjectPath": "\\Events\\Default Work Unit\\Main\\Grunt\\Grunt_Slith",
+      "GUID": "{1CA87B1E-0DC4-4188-9F63-466008E5824A}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.8558455",
+      "DurationMax": "1.1424167",
+      "MediaRefs": [
+       {
+        "Id": "522671429"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{5E1F400B-5EF4-05E3-3332-D6653CCF9BCE}"
+ }
+}
