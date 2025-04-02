@@ -1,2 +1,4 @@
 
 *.pyc
+*.bnk
+eecs623/sample-wwise-integration/Wwise/resources/WwiseProjectData.tres
