@@ -9,9 +9,11 @@ def main():
     print(candies)
     print(len(candies))
 
+    print('--------------')
     for candy in candies:
         print(candy, '=', candies[candy])
 
+    print('--------------')
     for candy, rating in candies.items():
         print(candy, '=', rating)
 
