@@ -14,6 +14,7 @@ def main():
     else:
         print('your_tri is larger (or equal)')
 
+    #my_tri = your_tri
     if my_tri == your_tri:
         print('they are equal')
     else:
