@@ -18,3 +18,6 @@ class LinkedList:
             #traverse to the node at the index
             #return the entry
             #we'll finish this Wednesday
+
+    def length(self):
+        return self._length
