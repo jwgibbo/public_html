@@ -11,7 +11,7 @@ def main():
 
     try:
         print('try entered...')
-        result = my_div(10, 0)
+        result = my_div(10, 5)
         print(result+1)
         print('try ending...')
     except:
