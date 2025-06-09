@@ -9,6 +9,9 @@ class Stack:
     def is_empty(self):
         return self._top is None
 
+    def peek(self):
+        #define (Friday)
+
     def push(self, entry):
         #define this (Thursday)
 
