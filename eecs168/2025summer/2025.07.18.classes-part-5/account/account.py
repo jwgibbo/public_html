@@ -5,7 +5,7 @@ class Account:
         self._balance = 0
 
     def transfer_to(self, other, amount):
-        
+        #defined as board work July 18
 
     def deposit(self, amount):
         if amount > 0:
