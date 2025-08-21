@@ -1,0 +1,6 @@
+print('Hello, World!')
+print("Goodbye, Mars!")
+print(3+5)
+print('The answer is', 10+5)
+print('catfood')
+print('10+5 =', 10+5)
