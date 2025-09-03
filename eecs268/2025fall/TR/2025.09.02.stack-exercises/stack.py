@@ -20,4 +20,8 @@ class Stack:
         
 
     def pop(self):
-        #define (Thursday 2025.08.28)        
+        #define (Thursday 2025.08.28)
+
+    def peek(self):
+        #return the top-most value OR
+        #raise a RuntimeError with message 'Stack empty'
