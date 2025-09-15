@@ -18,6 +18,3 @@ class LinkedList:
 
     def length(self):
         #define Fri Sep 12
-
-    def clear(self);
-        #define Mon Sep 15
