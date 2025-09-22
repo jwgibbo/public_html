@@ -1,3 +1,5 @@
+#Goal: Obtain 50 ints from the user
+
 nums = [5, 10, 15, 20]
 
 print(nums)
@@ -9,4 +11,3 @@ nums[0] = 99
 nums.append(55)
 for num in nums:
     print(num)
-
