@@ -1,4 +1,7 @@
 dishes = {'ham': 9.2, 'pecan pie': 12, 'deviled eggs': 8.5}
+
+
+print(dishes['ham': 'deviled eggs'])
 print(dishes)
 print('length =', len(dishes))
 
