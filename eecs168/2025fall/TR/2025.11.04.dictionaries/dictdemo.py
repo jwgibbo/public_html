@@ -8,6 +8,9 @@ print(foods['ham'])
 foods['yams'] = 5
 print(foods['yams'])
 
+print('ham' in foods)
+print('pie' in foods)
+
 print('-----')
 for food in foods:
     print(food)
