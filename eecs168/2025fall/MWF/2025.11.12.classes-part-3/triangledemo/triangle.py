@@ -1,6 +1,7 @@
 #triangle.py
 class Triangle:
     def __init__(self, base, height):
+        print('init called')
         self.base = base
         self.height = height
 
@@ -8,5 +9,5 @@ class Triangle:
         answer = self.base*self.height*(1/2)
         return answer
 
-    def is_larger(self, ???):
+    #def is_larger(self, ???):
         #define
