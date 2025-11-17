@@ -12,3 +12,6 @@ class Account:
 
     def check_balance(self):
         return self._balance
+
+    def withdraw(self, amount):
+        #defined as board work Nov 14th
