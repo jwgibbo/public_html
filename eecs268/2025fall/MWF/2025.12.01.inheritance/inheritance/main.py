@@ -7,15 +7,17 @@ def main():
     my_animal = Animal(5)
     my_animal.eat()
     my_animal.sleep()
-    print('Animal age =', my_animal.age)
-    # my_animal.do_trick() ERROR
-    
-    my_dog = Dog(16, .333)
+    #my_animal.do_trick()
+    print(my_animal.age)
+
+    my_dog = Dog(17, 'corgi')
     my_dog.eat()
     my_dog.sleep()
     my_dog.do_trick()
-    print('Dog age = ', my_dog.age)
-    print('Dog tail length =', my_dog.tail_length)
+    print(my_dog.age)
+    print(my_dog.breed)
+    
+
     
 
     
