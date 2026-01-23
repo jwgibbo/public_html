@@ -1,0 +1,6 @@
+print('Hello, World!')
+print("Goodbye, Mars!")
+print("I don't like blizzards")
+print('He said, \"I don\'t like blizzards\"')
+print('Tomorrow Weather\nBlizzard')
+print('Mon\tWed\tFri')
