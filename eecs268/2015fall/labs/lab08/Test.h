@@ -18,11 +18,11 @@
 class Test
 {
 public:
-        Test();
-        void runTests();
+	Test();
+	void runTests();
 
-        bool test_isEmpty01();//isEmpty returns true on empty tree
-        bool test_isEmpty02();//isEmpty returns false after a single add
+	bool test_isEmpty01();//isEmpty returns true on empty tree
+	bool test_isEmpty02();//isEmpty returns false after a single add
 	
 	bool test_search01();//searching an empty tree returns false
 	bool test_search02();//add(42) to empty tree then search(42) returns true
