@@ -15,4 +15,11 @@ class LinkedQueue:
 
     def enqueue(self, entry):
         #add the entry to the queue
+
+    def dequeue(self):
+        #remove the front (return
+        #removed value)
+
+    def peek_front(self):
+        #return front value
             
