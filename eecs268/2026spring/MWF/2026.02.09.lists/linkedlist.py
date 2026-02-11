@@ -8,5 +8,9 @@ class LinkedList:
         self._length = 0
 
     def get_entry(self, index):
-        #for Wednesday
+        #return the entry at the index
+        #raise an IndexError if index is invalid
     
+    def set_entry(self, index, entry):
+        #replace the entry at the index
+        #OR raise and IndexError
