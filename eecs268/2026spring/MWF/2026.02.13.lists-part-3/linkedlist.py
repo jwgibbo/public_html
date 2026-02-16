@@ -18,3 +18,16 @@ class LinkedList:
     def insert(self, index, entry):
         #Either add the new entry at the index
         #OR raise IndexError
+
+    def remove(self, index):
+        #removes the at the index
+        # and returns the removed value
+        #OR raises an IndexError
+
+
+    def length(self):
+        #returns length
+
+    def clear(self):
+        #resets list to an empty state
+        
