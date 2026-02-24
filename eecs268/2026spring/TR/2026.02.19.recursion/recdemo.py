@@ -1,7 +1,8 @@
 def rec_func(num):
     if num <= 4:
-        rec_func(num+1) #recursive call
         print(num)
+        rec_func(num+1) #recursive call
+        
     else:
         print(num, 'Recursion over...')
 
