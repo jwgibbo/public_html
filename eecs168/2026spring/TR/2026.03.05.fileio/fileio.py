@@ -11,7 +11,12 @@ for line in movies_file:
 
 
 #write a poem
-poem_file.write('Dog food taste great!')
+poem_file.write('Dog food taste great!\n')
+
+num = 55
+poem_file.write(str(num)+'\n')
+
+
 
 poem_file.close()
 movies_file.close()
