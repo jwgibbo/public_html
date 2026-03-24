@@ -6,3 +6,5 @@ for line in movie_file:
     line = line.strip()
     #print the line
     print(line)
+
+movie_file.close()
