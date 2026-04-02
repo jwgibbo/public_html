@@ -1,6 +1,7 @@
 def num_changer(num):
     print('num changer num=', num)
     num = -1
+    print(result)
     print('num changer num=', num)
 
 def main():

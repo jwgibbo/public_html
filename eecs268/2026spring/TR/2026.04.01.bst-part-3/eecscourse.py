@@ -1,0 +1,29 @@
+#eecscourse.py
+
+class EECS_Course:
+    def __init__(self):
+        self.prof = ???
+        self.course_num = ???
+        self.credits = ???
+        self.required = ???
+
+    def __lt__(self, other):
+        #figure out what other's type is
+        if isinstance(other, int):
+            return self.course_num < other
+        else:
+            return self.course_num < other.course_num
+
+    def __gt__(self, other):
+        #figure out what other's type is
+        if isinstance(other, int):
+            return self.course_num > other
+        else:
+            return self.course_num > other.course_num
+
+    def __eq__(self, other):
+        #figure out what other's type is
+        if isinstance(other, int):
+            return self.course_num == other
+        else:
+            return self.course_num == other.course_num
