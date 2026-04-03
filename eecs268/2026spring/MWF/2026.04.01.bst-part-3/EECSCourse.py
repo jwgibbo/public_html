@@ -17,7 +17,10 @@ class EECS_Course:
             return self.course_num < other.course_num
 
     def __gt__(self, other):
-        #More on this on Wednesday
+        if isinstance(other, int):
+            return self.course_num > other
+        else:
+            return self.course_num > other.course_num
 
     def __eq__(self, other):
         if isinstance(other, int):
