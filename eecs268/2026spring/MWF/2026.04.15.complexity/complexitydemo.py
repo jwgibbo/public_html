@@ -17,3 +17,7 @@ for num in range(n):
 for outer in range(n):
     for inner in range(n):
         #do something
+
+
+for i in range(my_list.length()):
+    print(my_list.get_entry(i))
