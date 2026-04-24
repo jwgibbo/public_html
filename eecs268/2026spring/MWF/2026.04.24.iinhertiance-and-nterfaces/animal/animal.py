@@ -3,7 +3,6 @@
 class Animal:
     def __init__(self):
         print('Animal made!')
-        self.age = 0
 
     def eat(self):
         print('Animal eating...')

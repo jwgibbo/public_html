@@ -3,16 +3,19 @@
 from animal import Animal
 from dog import Dog
 
+def play_with_animal(some_animal):
+    print('Play time!')
+    some_animal.eat()
+    print('Nap time!')
+    some_animal.sleep()
+
 def main():
     my_animal = Animal()
     my_dog = Dog()
 
-    my_animal.eat()
-    my_animal.sleep()
     #my_animal.do_trick() ERROR
 
-    my_dog.eat()
-    my_dog.sleep()
-    my_dog.do_trick()
+    play_with_animal(my_animal)
+    play_with_animal(my_dog)
 
 main()
