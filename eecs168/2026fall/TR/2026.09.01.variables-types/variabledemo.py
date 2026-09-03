@@ -10,3 +10,4 @@ print('Hi', user_name)
 print(type(user_name))
 
 user_age = int(input('Enter age: '))
+print('In 10 years you will be', user_age+10)
