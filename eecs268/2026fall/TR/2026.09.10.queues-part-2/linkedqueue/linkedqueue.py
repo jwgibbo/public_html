@@ -18,4 +18,7 @@ class LinkedQueue:
         #define Tue Sep 8
 
     def peek_front(self):
-        #define Tue Sep 10
+        #define Tue Sep 8
+
+    def dequeue(self):
+        #define Tue Sep 8
