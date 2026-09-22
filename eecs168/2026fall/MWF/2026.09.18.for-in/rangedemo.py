@@ -13,5 +13,5 @@ for num in range(4, 11, 2):
 
 print('-----------')
 
-for num in range(10, 5):
+for num in range(10, 5, -1):
     print(num)
