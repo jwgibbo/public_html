@@ -10,6 +10,10 @@ for num in range(5):
 
 print(nums)
 print(nums[0])
+print('length =', len(nums))
+print(type(nums))
+print(type(nums[0]))
+print(nums[0]*1000)
 
 nums[2] = 99
 print(nums)
