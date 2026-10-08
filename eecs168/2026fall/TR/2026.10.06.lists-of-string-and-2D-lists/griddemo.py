@@ -10,7 +10,7 @@ grid.append(row2)
 grid.append(row3)
 print(len(grid))
 print(type(grid))
-print(type(grid[0]))
+print(type(grid[0]), grid[0])
 print(type(grid[0][0]))
 print(grid[2][3])
 # print(grid[3][2]) ERROR
