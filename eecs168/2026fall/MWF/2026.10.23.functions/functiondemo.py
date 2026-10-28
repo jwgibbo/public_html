@@ -9,3 +9,6 @@ def add_one(num):
 
 
 print(add_one(5)) #call add_one
+
+ans = add_one(99)
+print(ans)
