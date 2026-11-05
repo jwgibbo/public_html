@@ -6,7 +6,7 @@ def num_changer(num):
 def main():
     num = 5
     print('main num =', num)
-    num_changer(num)
+    num = num_changer(num)
     print('main num =', num)
 
 main()
