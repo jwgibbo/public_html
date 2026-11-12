@@ -10,3 +10,9 @@ print(my_letters)
 
 your_letters = set('pizza')
 print(my_letters.intersection(your_letters))
+
+
+words = ['bat', 'cat', 'bat', 'hat', 'mat', 'cat']
+
+unique_words = set(words)
+print(unique_words)
