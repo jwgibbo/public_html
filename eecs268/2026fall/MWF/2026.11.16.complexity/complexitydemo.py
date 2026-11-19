@@ -1,5 +1,5 @@
 #Algorithm 1: Constant, O(1)
-for num in range(10):
+for num in range(100000):
     print(num)
 
 
