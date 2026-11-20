@@ -13,4 +13,6 @@ class Account:
     def check_balance(self):
         return self._balance
 
-    #add withdraw method here
+    #add withdraw method here (wednesday)
+
+    #add a transfer method here (Friday)
